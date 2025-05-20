@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 泛物斋</title>
+        <link>https://noroki.github.io/zh-cn/page/</link>
+        <description>Recent content in Pages on 泛物斋</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://noroki.github.io/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>简介</title>
+        <link>https://noroki.github.io/zh-cn/%E7%AE%80%E4%BB%8B/</link>
+        <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/%E7%AE%80%E4%BB%8B/</guid>
+        <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;A programmer, who is fond of linguistics.&lt;br /&gt;
+— &lt;cite&gt;Noroki&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;动机&#34;&gt;动机&lt;/h2&gt;
+
+&lt;p&gt;东西越写越多，文件夹的分类都越来越复杂，因而想做个博客来管理我的作品。有画作，也有随笔，因为涉及内容众多，无法尽数放在社交网站，因而辑录成册，置于「泛物斋」。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>https://noroki.github.io/zh-cn/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://noroki.github.io/zh-cn/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

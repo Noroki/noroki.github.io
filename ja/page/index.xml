@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 泛物斎</title>
+        <link>https://noroki.github.io/ja/page/</link>
+        <description>Recent content in Pages on 泛物斎</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://noroki.github.io/ja/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>自己紹介</title>
+        <link>https://noroki.github.io/ja/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</link>
+        <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/ja/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</guid>
+        <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;A programmer, who is fond of linguistics.&lt;br /&gt;
+— &lt;cite&gt;Noroki&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;切っ掛け&#34;&gt;切っ掛け&lt;/h2&gt;
+
+&lt;p&gt;最近研究書類がどんどん多く成ったので、ブログが必要じゃないかと思っていて、このブログを作った。私の作品は範囲が広いが、出来るだけこの「泛物斎」に置いてある。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>アーカイブ</title>
+        <link>https://noroki.github.io/ja/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/ja/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>検索</title>
+        <link>https://noroki.github.io/ja/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/ja/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

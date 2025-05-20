@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on 범물재</title>
+        <link>https://noroki.github.io/ko/tags/</link>
+        <description>Recent content in Tags on 범물재</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 13 Feb 2022 23:59:59 +0800</lastBuildDate><atom:link href="https://noroki.github.io/ko/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>かし</title>
+        <link>https://noroki.github.io/ko/tags/%E3%81%8B%E3%81%97/</link>
+        <pubDate>Sun, 13 Feb 2022 23:59:59 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/ko/tags/%E3%81%8B%E3%81%97/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>にほんご</title>
+        <link>https://noroki.github.io/ko/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/</link>
+        <pubDate>Sun, 13 Feb 2022 23:59:59 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/ko/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>가사</title>
+        <link>https://noroki.github.io/ko/tags/%EA%B0%80%EC%82%AC/</link>
+        <pubDate>Wed, 09 Feb 2022 18:38:01 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/ko/tags/%EA%B0%80%EC%82%AC/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>한국어</title>
+        <link>https://noroki.github.io/ko/tags/%ED%95%9C%EA%B5%AD%EC%96%B4/</link>
+        <pubDate>Wed, 09 Feb 2022 18:38:01 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/ko/tags/%ED%95%9C%EA%B5%AD%EC%96%B4/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>조선어</title>
+        <link>https://noroki.github.io/ko/tags/%EC%A1%B0%EC%84%A0%EC%96%B4/</link>
+        <pubDate>Wed, 01 Sep 2021 23:16:02 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/ko/tags/%EC%A1%B0%EC%84%A0%EC%96%B4/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

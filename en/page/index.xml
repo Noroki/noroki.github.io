@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Panlogum</title>
+        <link>https://noroki.github.io/en/page/</link>
+        <description>Recent content in Pages on Panlogum</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://noroki.github.io/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archives</title>
+        <link>https://noroki.github.io/en/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/en/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://noroki.github.io/en/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/en/about/</guid>
+        <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;A programmer, who is fond of linguistics.&lt;br /&gt;
+— &lt;cite&gt;Noroki&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;initiative&#34;&gt;Initiative&lt;/h2&gt;
+
+&lt;p&gt;Since the files and documents accumulated with my research procedure, so I want to build up a blog to organize my papers. Due to wide scope, that is impossible for me to put them in a social communication website. So I collect them together, and archive them in &amp;ldquo;Panlogum&amp;rdquo;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://noroki.github.io/en/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/en/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

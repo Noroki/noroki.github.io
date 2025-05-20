@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 범물재</title>
+        <link>https://noroki.github.io/ko/page/</link>
+        <description>Recent content in Pages on 범물재</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://noroki.github.io/ko/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>자기 소개</title>
+        <link>https://noroki.github.io/ko/%EC%9E%90%EA%B8%B0-%EC%86%8C%EA%B0%9C/</link>
+        <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/ko/%EC%9E%90%EA%B8%B0-%EC%86%8C%EA%B0%9C/</guid>
+        <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;A programmer, who is fond of linguistics.&lt;br /&gt;
+— &lt;cite&gt;Noroki&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;연구&#34;&gt;연구&lt;/h2&gt;
+
+&lt;p&gt;과정에서 파일과 문서가 쌓였기 때문에 블로그를 만들어 논문을 정리하고 싶습니다. 범위가 넓기 때문에 소셜 커뮤니케이션 웹 사이트에 넣는 것은 불가능합니다. 그래서 나는 그것들을 모아서 &amp;ldquo;범물재&amp;rdquo;에 보관합니다.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Translated by Google due to my Korean still need to be improved.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        <item>
+        <title>보관함</title>
+        <link>https://noroki.github.io/ko/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/ko/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>검색</title>
+        <link>https://noroki.github.io/ko/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/ko/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

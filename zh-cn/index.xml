@@ -1,0 +1,1867 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>泛物斋</title>
+        <link>https://noroki.github.io/zh-cn/</link>
+        <description>Recent content on 泛物斋</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 18 Jun 2022 17:30:36 +0800</lastBuildDate><atom:link href="https://noroki.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>日本汉字的粤语读音规范（草案）</title>
+        <link>https://noroki.github.io/zh-cn/p/han-jpn/</link>
+        <pubDate>Sat, 18 Jun 2022 17:30:36 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/p/han-jpn/</guid>
+        <description>&lt;img src="https://noroki.github.io/zh-cn/p/han-jpn/cover.jpg" alt="Featured image of post 日本汉字的粤语读音规范（草案）" /&gt;
+
+&lt;h2 id=&#34;〇-前言&#34;&gt;〇、前言&lt;/h2&gt;
+
+&lt;p&gt;本文基于《日本汉字的汉语读音规范（草案）》（下称《规范》），拟定日本汉字相应的&lt;strong&gt;粤语&lt;/strong&gt;读音。&lt;/p&gt;
+
+&lt;p&gt;本文大致将日本汉字分为四类，日本自造汉字、中日同形字、中国古字或俗字和日本略字。&lt;/p&gt;
+
+&lt;p&gt;注意，本文的对日本汉字的归类与《规范》有少许不同，对部分字的归属作出了调整，下文详述。&lt;/p&gt;
+
+&lt;p&gt;正文部分也有列出现行香港《电脑用汉字粤语拼音表》与本文拟音对比，供读者参考。&lt;/p&gt;
+
+&lt;h2 id=&#34;一-术语定义与拟音原则&#34;&gt;一、术语定义与拟音原则&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;日本汉字&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;日文中使用的汉字。包括日本自造汉字、中日同形字、中国古字或俗字和日本略字。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;下文详述具体四种类别的分类标准及拟音原则。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;日本自造汉字&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;日本仿照汉字造字原理和结构体式自造的日本汉字。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;中文无此字。&lt;/p&gt;
+
+&lt;p&gt;取&lt;strong&gt;“声旁”&lt;/strong&gt;的读音。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;中日同形字&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;日本汉字中跟中国已有的某一汉字字形相同，但字义没有关联或相去甚远的汉字；或字形虽为汉语字词书所收录，但无义项，无法进行字义比较的汉字。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;中日皆有此字，字形相同，但字义不同或无法比较。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;取同形的中国汉字读音。 &amp;ndash; 《规范》&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;《规范》中的拟音原则是取同形的中国汉字读音，但实际上考虑到中日两种语言中字义未必相同，此处应&lt;strong&gt;按照日语词源拟音&lt;/strong&gt;；当词源不明确时，可参考日本自造汉字的拟音原则处理，取“声旁”的读音。&lt;/p&gt;
+
+&lt;p&gt;例如，「喰」日语中意为「进食」，与「餐」的异体字「喰」字义无关&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，取同形的中国汉字读音会造成混乱，令人误以为是字义上有所关联。因此，宜按照日语词源拟音而非直接套用同形的中国汉字读音。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;中国古字或俗字&lt;/p&gt;
+
+&lt;p&gt;中日皆有此字，属古今字或异体字关系，字义相同。依据现有字词书判定为中国古字或俗字。&lt;/p&gt;
+
+&lt;p&gt;按&lt;strong&gt;中国汉字读音&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;对于中日&lt;strong&gt;字义不同&lt;/strong&gt;的字，如「俣」（分叉处）和「俁」（俁，容貌大也），不宜作中国古字或俗字处理，应按中日同形字处理。&lt;/p&gt;
+
+&lt;p&gt;简而言之，对于中国古字或俗字这一分类，本文与《规范》处理方法不同。字义相同的，仍归类于中国古字或俗字；字义不同的，重新归类为中日同形字（与中国古字或俗字字形相同的日本汉字）。&lt;/p&gt;
+
+&lt;p&gt;4.1 古字&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;跟今字记录同一语词，但为古时通行的字形。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;4.2 俗字&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;跟正字记录同一语词，但没有取得规范地位的字形。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;日本略字&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;日文所用汉字中的简体字，包括日本自造的简体字和取自中国古字或俗字的简体字。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;日本使用的不同于中文汉字字形的简体字。中日字形不同，但有对应关系。翻译成中文时需要转写为相应的繁体字。&lt;/p&gt;
+
+&lt;p&gt;按相应的&lt;strong&gt;中文繁体字读音&lt;/strong&gt;。&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;二-正文&#34;&gt;二、正文&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;日本汉字&lt;/th&gt;
+&lt;th&gt;分类&lt;/th&gt;
+&lt;th&gt;日语读音&lt;/th&gt;
+&lt;th&gt;大陆《日本汉字的汉语读音规范（草案）》&lt;/th&gt;
+&lt;th&gt;香港《电脑用汉字粤语拼音表》&lt;/th&gt;
+&lt;th&gt;暂拟粤音&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;匂&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;にお-う&lt;/td&gt;
+&lt;td&gt;yún / ㄩㄣˊ&lt;/td&gt;
+&lt;td&gt;hung1&lt;/td&gt;
+&lt;td&gt;wan5&lt;/td&gt;
+&lt;td&gt;取「韵（匀）」的音&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;丼&lt;/td&gt;
+&lt;td&gt;中国古字或俗字&lt;/td&gt;
+&lt;td&gt;どん&lt;/td&gt;
+&lt;td&gt;dǎn / ㄉㄢˇ&lt;/td&gt;
+&lt;td&gt;zeng2&lt;/td&gt;
+&lt;td&gt;dam2&lt;/td&gt;
+&lt;td&gt;投物井中的声音，日语用「丼」的此义作为拟声词「どんぶり」的汉字（擬音語の「どんぶり」に当てられ)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;辻&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;つじ&lt;/td&gt;
+&lt;td&gt;shí / ㄕˊ&lt;/td&gt;
+&lt;td&gt;sap6&lt;/td&gt;
+&lt;td&gt;sap6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;込&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;こ-む&lt;/td&gt;
+&lt;td&gt;rù / ㄖㄨˋ&lt;/td&gt;
+&lt;td&gt;jyu1&lt;/td&gt;
+&lt;td&gt;jap6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;凧&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;たこ&lt;/td&gt;
+&lt;td&gt;jīn / ㄐㄧㄣ&lt;/td&gt;
+&lt;td&gt;kei4&lt;/td&gt;
+&lt;td&gt;gan1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;杣&lt;/td&gt;
+&lt;td&gt;中日同形字&lt;/td&gt;
+&lt;td&gt;そま&lt;/td&gt;
+&lt;td&gt;shān / ㄕㄢ&lt;/td&gt;
+&lt;td&gt;min4&lt;/td&gt;
+&lt;td&gt;saan1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;枠&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;わく&lt;/td&gt;
+&lt;td&gt;zá / ㄗㄚˊ&lt;/td&gt;
+&lt;td&gt;zyut6&lt;/td&gt;
+&lt;td&gt;&lt;span title=&#34;「切韵音系自动推导器」推导今音&#34;&gt;wok6&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;わく来源为「籰」「籆」「篗」的音读&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;。篗，王缚切。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;畑&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;はた、はたけ&lt;/td&gt;
+&lt;td&gt;tián / ㄊㄧㄢˊ&lt;/td&gt;
+&lt;td&gt;tin4&lt;/td&gt;
+&lt;td&gt;tin4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;栃&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;とち&lt;/td&gt;
+&lt;td&gt;lì / ㄌㄧˋ&lt;/td&gt;
+&lt;td&gt;lai6&lt;/td&gt;
+&lt;td&gt;lai6&lt;/td&gt;
+&lt;td&gt;考虑到日语有从「励」、「蛎」类推的惯用音レイ，用于「来栃」「帰栃」等词，可从之。（「来栃」「帰栃」などの文章上で用いられる栃木県の往来表現の読み方について、励や蛎などの漢字から類推して「レイ」の読みが与えられることがある。）&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;栂&lt;/td&gt;
+&lt;td&gt;中国古字或俗字&lt;/td&gt;
+&lt;td&gt;つが、とが&lt;/td&gt;
+&lt;td&gt;méi / ㄇㄟˊ&lt;/td&gt;
+&lt;td&gt;mui4&lt;/td&gt;
+&lt;td&gt;mui4&lt;/td&gt;
+&lt;td&gt;「栂」有惯用音 「バイ」，与梅的汉音 「バイ」同，可从之。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;峠&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;とうげ&lt;/td&gt;
+&lt;td&gt;kǎ / ㄎㄚˇ&lt;/td&gt;
+&lt;td&gt;kaa1&lt;/td&gt;
+&lt;td&gt;lung6&lt;/td&gt;
+&lt;td&gt;取𠧗（⿱上下）的音。《康熙字典》有收𠧗（⿱上下），同「弄」，宜取𠧗（⿱上下）而非「卡」。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;俣&lt;/td&gt;
+&lt;td&gt;中日同形字&lt;/td&gt;
+&lt;td&gt;また&lt;/td&gt;
+&lt;td&gt;yǔ / ㄩˇ&lt;/td&gt;
+&lt;td&gt;jyu5&lt;/td&gt;
+&lt;td&gt;ng4&lt;/td&gt;
+&lt;td&gt;中日字义不同，按中日同形字处理，取「吴（吳）」的音。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;籾&lt;/td&gt;
+&lt;td&gt;中日同形字&lt;/td&gt;
+&lt;td&gt;もみ&lt;/td&gt;
+&lt;td&gt;rèn / ㄖㄣˋ&lt;/td&gt;
+&lt;td&gt;nei4&lt;/td&gt;
+&lt;td&gt;jan6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;畠&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;はた、はたけ&lt;/td&gt;
+&lt;td&gt;tián / ㄊㄧㄢˊ&lt;/td&gt;
+&lt;td&gt;tin4, zi1&lt;/td&gt;
+&lt;td&gt;tin4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;雫&lt;/td&gt;
+&lt;td&gt;中日同形字&lt;/td&gt;
+&lt;td&gt;しずく&lt;/td&gt;
+&lt;td&gt;xià / ㄒㄧㄚˋ&lt;/td&gt;
+&lt;td&gt;no5&lt;/td&gt;
+&lt;td&gt;haa6&lt;/td&gt;
+&lt;td&gt;汉语无义可对比&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;，按中日同形字处理，取「下」的音。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;笹&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;ささ&lt;/td&gt;
+&lt;td&gt;shì / ㄕˋ&lt;/td&gt;
+&lt;td&gt;sai3&lt;/td&gt;
+&lt;td&gt;sai3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;塀&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;かき、へい&lt;/td&gt;
+&lt;td&gt;píng / ㄆㄧㄥˊ&lt;/td&gt;
+&lt;td&gt;ping4&lt;/td&gt;
+&lt;td&gt;ping4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;椙&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;すぎ&lt;/td&gt;
+&lt;td&gt;chāng / ㄔㄤ&lt;/td&gt;
+&lt;td&gt;coeng1&lt;/td&gt;
+&lt;td&gt;coeng1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;硲&lt;/td&gt;
+&lt;td&gt;中国古字或俗字&lt;/td&gt;
+&lt;td&gt;はざま&lt;/td&gt;
+&lt;td&gt;yù / ㄩˋ&lt;/td&gt;
+&lt;td&gt;juk6&lt;/td&gt;
+&lt;td&gt;juk6&lt;/td&gt;
+&lt;td&gt;中日字义相近，可按中国古字或俗字处理，取「硲（峪）」的音。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;蛯&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;えび&lt;/td&gt;
+&lt;td&gt;lǎo / ㄌㄠˇ&lt;/td&gt;
+&lt;td&gt;lou5&lt;/td&gt;
+&lt;td&gt;lou5&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;喰&lt;/td&gt;
+&lt;td&gt;中日同形字&lt;/td&gt;
+&lt;td&gt;く-う&lt;/td&gt;
+&lt;td&gt;cān / ㄘㄢ&lt;/td&gt;
+&lt;td&gt;caan1&lt;/td&gt;
+&lt;td&gt;sik6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;搾&lt;/td&gt;
+&lt;td&gt;中国古字或俗字&lt;/td&gt;
+&lt;td&gt;しぼ-る、さく&lt;/td&gt;
+&lt;td&gt;zhà / ㄓㄚˋ&lt;/td&gt;
+&lt;td&gt;zaa3&lt;/td&gt;
+&lt;td&gt;zaa3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;榊&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;さかき&lt;/td&gt;
+&lt;td&gt;shén / ㄕㄣˊ&lt;/td&gt;
+&lt;td&gt;san4&lt;/td&gt;
+&lt;td&gt;san4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;働&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;はたら-く、どう&lt;/td&gt;
+&lt;td&gt;dòng / ㄉㄨㄥˋ&lt;/td&gt;
+&lt;td&gt;dung6&lt;/td&gt;
+&lt;td&gt;dung6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;糀&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;こうじ&lt;/td&gt;
+&lt;td&gt;huā / ㄏㄨㄚ&lt;/td&gt;
+&lt;td&gt;faa1&lt;/td&gt;
+&lt;td&gt;faa1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;鞆&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;とも&lt;/td&gt;
+&lt;td&gt;bǐng / ㄅㄧㄥˇ&lt;/td&gt;
+&lt;td&gt;bing2&lt;/td&gt;
+&lt;td&gt;bing2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;槇&lt;/td&gt;
+&lt;td&gt;中日同形字&lt;/td&gt;
+&lt;td&gt;まき&lt;/td&gt;
+&lt;td&gt;zhēn / ㄓㄣ&lt;/td&gt;
+&lt;td&gt;din1&lt;/td&gt;
+&lt;td&gt;zan1&lt;/td&gt;
+&lt;td&gt;中日字义不同，按中日同形字处理，取「眞」的音。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;樫&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;かし&lt;/td&gt;
+&lt;td&gt;jīan / ㄐㄧㄢ&lt;/td&gt;
+&lt;td&gt;gin1&lt;/td&gt;
+&lt;td&gt;gin1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;鴫&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;しぎ&lt;/td&gt;
+&lt;td&gt;tián / ㄊㄧㄢˊ&lt;/td&gt;
+&lt;td&gt;tin4&lt;/td&gt;
+&lt;td&gt;tin4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;噺&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;はなし&lt;/td&gt;
+&lt;td&gt;xīn / ㄒㄧㄣ&lt;/td&gt;
+&lt;td&gt;san1&lt;/td&gt;
+&lt;td&gt;san1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;簗&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;やな&lt;/td&gt;
+&lt;td&gt;liáng / ㄌㄧㄤˊ&lt;/td&gt;
+&lt;td&gt;loeng4&lt;/td&gt;
+&lt;td&gt;loeng4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;麿&lt;/td&gt;
+&lt;td&gt;日本自造汉字&lt;/td&gt;
+&lt;td&gt;まろ&lt;/td&gt;
+&lt;td&gt;mó / ㄇㄛˊ&lt;/td&gt;
+&lt;td&gt;leoi5&lt;/td&gt;
+&lt;td&gt;maa4 leoi5&lt;/td&gt;
+&lt;td&gt;合字，应与「粁」「瓩」「竏」处理方法相同。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;三-后记&#34;&gt;三、后记&lt;/h2&gt;
+
+&lt;p&gt;有关日本汉字的中文读音问题，可谓是争论不休，「糸」是「糸（mik6）」还是「丝」、「喰」读「sik6」还是「caan1」，等等的问题也十分常见。有关普通话读音的讨论很多，但少有针对粤语进行讨论的文章。笔者尝试对「日本汉字的粤语读音」这一问题进行整理，拟定了部分日本汉字的粤语读音。&lt;/p&gt;
+
+&lt;h2 id=&#34;四-参考文献&#34;&gt;四、参考文献&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;《日本汉字的汉语读音规范（草案）》&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;切韵音系自动推导器 &lt;a href=&#34;https://nk2028.shn.hk/qieyun-autoderiver/&#34;&gt;https://nk2028.shn.hk/qieyun-autoderiver/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;如何评价《日本汉字的汉语读音规范（草案）》？ - Kushim Jiang的回答 - 知乎 &lt;a href=&#34;https://www.zhihu.com/question/319141316/answer/653094729&#34;&gt;https://www.zhihu.com/question/319141316/answer/653094729&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:5&#34;&gt;《东京喰种》的「喰」怎么读？ - 亜恵恵阿由的回答 - 知乎 &lt;a href=&#34;https://www.zhihu.com/question/24368233/answer/1975127398&#34;&gt;https://www.zhihu.com/question/24368233/answer/1975127398&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34;&gt;日本汉字「匂」，在中文应该念什么？ - 亜恵恵阿由的回答 - 知乎 &lt;a href=&#34;https://www.zhihu.com/question/53710679/answer/136275972&#34;&gt;https://www.zhihu.com/question/53710679/answer/136275972&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;「笹」真的是「屉」的异体字吗？ - 亜恵恵阿由的回答 - 知乎 &lt;a href=&#34;https://www.zhihu.com/question/319157186/answer/2025024838&#34;&gt;https://www.zhihu.com/question/319157186/answer/2025024838&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;【汉字】汉字的多重身份——以「雫」为例 - 屠龙少年周旭的文章 - 知乎 &lt;a href=&#34;https://zhuanlan.zhihu.com/p/60115525&#34;&gt;https://zhuanlan.zhihu.com/p/60115525&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        <item>
+        <title>《马说》汉文训读</title>
+        <link>https://noroki.github.io/zh-cn/p/ma-shuet/</link>
+        <pubDate>Thu, 09 Jun 2022 16:36:39 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/p/ma-shuet/</guid>
+        <description>&lt;img src="https://noroki.github.io/zh-cn/p/ma-shuet/02.png" alt="Featured image of post 《马说》汉文训读" /&gt;
+
+&lt;h2 id=&#34;一-训读文-訓読文&#34;&gt;一、训读文（訓読文）&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;02.png&#34; alt=&#34;疏排（アキ組）&#34; /&gt;
+&lt;center&gt;疏排（アキ組）&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;01.jpg&#34; alt=&#34;密排（ベタ組）+ 振假名（振り仮名）&#34; /&gt;
+&lt;center&gt;密排（ベタ組）+ 振假名（振り仮名）&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;二-训读体-書き下し文&#34;&gt;二、训读体（書き下し文）&lt;/h2&gt;
+
+&lt;p&gt;世に伯樂有りて、然る後に千里の馬有り。千里の馬は常に有れども、伯樂は常には有らず。故に名馬有りと雖も、衹だ奴隷人の手に辱められ、槽櫪の間に駢死して、千里を以つて稱せられざるなり。&lt;/p&gt;
+
+&lt;p&gt;馬の千里なる者は、一食に或いは粟一石を盡くす。馬を食ふ者は、其の能の千里なるを知りて食はざるなり。是の馬や、千里の能有りと雖も、食飽かざれば、力足らず、才の美外に見れず。且つ常馬と等しからんと欲するも得べからず。安くんぞ其の能の千里なるを求めんや。&lt;/p&gt;
+
+&lt;p&gt;之を策うちに其の道を以つてせず。之を食ふに其の材を盡くさしむる能はず。之に鳴けどもその意に通ずる能はず。策を執りて之に臨みて、曰はく、「天下に馬無し。」と。嗚呼、其れ眞に馬無きか、其れ眞に馬を知らざるか。&lt;/p&gt;
+
+&lt;h2 id=&#34;三-后记&#34;&gt;三、后记&lt;/h2&gt;
+
+&lt;p&gt;本文参考了网上的汉文训读材料，并使用汉文HTML进行排版。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>增广贤文</title>
+        <link>https://noroki.github.io/zh-cn/p/tsang-kwong-yeen-mun/</link>
+        <pubDate>Sun, 05 Sep 2021 10:02:39 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/p/tsang-kwong-yeen-mun/</guid>
+        <description>&lt;img src="https://noroki.github.io/zh-cn/p/tsang-kwong-yeen-mun/cover0.jpg" alt="Featured image of post 增广贤文" /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;不信但看筵中酒杯：先劝有钱人。 &lt;br /&gt;
+- &lt;cite&gt;增广贤文　34：14&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;凡例&#34;&gt;凡例&lt;/h1&gt;
+
+&lt;p&gt;原文：上海广益书局印行版。 &lt;br /&gt;
+维基：维基文库。 &lt;br /&gt;
+粗体：与原文字体有细微出入。 &lt;/p&gt;
+
+&lt;h1 id=&#34;正文&#34;&gt;正文&lt;/h1&gt;
+
+&lt;p&gt;昔时贤文，诲汝
+&lt;ruby&gt;
+    &lt;rb&gt;谆谆&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;zhūn zhūn&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+。集韵增广，多见多闻。&lt;/p&gt;
+
+&lt;p&gt;观今宜鉴&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:9&#34;&gt;&lt;a href=&#34;#fn:9&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;古，无古不成今。&lt;/p&gt;
+
+&lt;p&gt;知己知彼，&lt;strong&gt;将&lt;/strong&gt;心比心。&lt;/p&gt;
+
+&lt;p&gt;酒逢知己饮，诗向会人吟。&lt;/p&gt;
+
+&lt;p&gt;相识满天下，知己能几人？&lt;/p&gt;
+
+&lt;p&gt;相逢好似初相识，到老终无怨恨心。&lt;/p&gt;
+
+&lt;p&gt;近水知鱼性，近山识鸟音。&lt;/p&gt;
+
+&lt;p&gt;易涨易退山溪水，易反易覆小人心。&lt;/p&gt;
+
+&lt;p&gt;运去金成铁，时来铁似金。&lt;/p&gt;
+
+&lt;p&gt;读书须用意，一字值千金。&lt;/p&gt;
+
+&lt;p&gt;逢人且说三分话，未可全抛一片心。&lt;/p&gt;
+
+&lt;p&gt;有意栽花花不发，无心插柳柳成阴。&lt;/p&gt;
+
+&lt;p&gt;画虎画皮难画骨，知人知面不知心。&lt;/p&gt;
+
+&lt;p&gt;钱财如粪土，仁义值千金。&lt;/p&gt;
+
+&lt;p&gt;流水下滩非有意，白云出
+&lt;ruby&gt;
+    &lt;rb&gt;岫&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;xiù&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+本无心。&lt;/p&gt;
+
+&lt;p&gt;当时若不登高&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:121&#34;&gt;&lt;a href=&#34;#fn:121&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;望，谁信东流海&lt;i&gt;样&lt;/i&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;深？&lt;/p&gt;
+
+&lt;p&gt;路遥&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;知马力，事久见人心。&lt;/p&gt;
+
+&lt;p&gt;两人一般心，&lt;i&gt;有&lt;/i&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;钱堪买金；&lt;/p&gt;
+
+&lt;p&gt;一人一般心，&lt;i&gt;无&lt;/i&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;钱难买针。&lt;/p&gt;
+
+&lt;p&gt;相见易得好，久住难为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:61&#34;&gt;&lt;a href=&#34;#fn:61&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;人。&lt;/p&gt;
+
+&lt;p&gt;马行无力皆因瘦，人不风流只为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:62&#34;&gt;&lt;a href=&#34;#fn:62&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;贫。&lt;/p&gt;
+
+&lt;p&gt;饶人不是痴汉，痴汉不会饶人。&lt;/p&gt;
+
+&lt;p&gt;是亲不是亲，非亲&lt;strong&gt;却&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;是亲。&lt;/p&gt;
+
+&lt;p&gt;美不美，乡&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34;&gt;9&lt;/a&gt;&lt;/sup&gt;中水；亲不亲，故乡&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34;&gt;9&lt;/a&gt;&lt;/sup&gt;人。&lt;/p&gt;
+
+&lt;p&gt;莺花犹怕春光老，岂可教人枉度春？&lt;/p&gt;
+
+&lt;p&gt;相逢不饮空归去，洞口桃花也笑人。&lt;/p&gt;
+
+&lt;p&gt;红粉佳人休便&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34;&gt;10&lt;/a&gt;&lt;/sup&gt;老，风流浪子莫教贫。&lt;/p&gt;
+
+&lt;p&gt;在家不会迎宾客，出路&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34;&gt;11&lt;/a&gt;&lt;/sup&gt;方知少主人。&lt;/p&gt;
+
+&lt;p&gt;黄金&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:10&#34;&gt;&lt;a href=&#34;#fn:10&#34;&gt;12&lt;/a&gt;&lt;/sup&gt;无假，阿魏无真&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:11&#34;&gt;&lt;a href=&#34;#fn:11&#34;&gt;13&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;客来主不顾，应&lt;nobr lang=&#34;zh-CN&#34;&gt;恐&lt;/nobr&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:12&#34;&gt;&lt;a href=&#34;#fn:12&#34;&gt;14&lt;/a&gt;&lt;/sup&gt;是痴人。 &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:13&#34;&gt;&lt;a href=&#34;#fn:13&#34;&gt;15&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;贫居闹市无人问，富在深山有远亲。&lt;/p&gt;
+
+&lt;p&gt;谁人背后无人说，那&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:14&#34;&gt;&lt;a href=&#34;#fn:14&#34;&gt;16&lt;/a&gt;&lt;/sup&gt;个&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:15&#34;&gt;&lt;a href=&#34;#fn:15&#34;&gt;17&lt;/a&gt;&lt;/sup&gt;人前不说人？&lt;/p&gt;
+
+&lt;p&gt;有钱道真&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:16&#34;&gt;&lt;a href=&#34;#fn:16&#34;&gt;18&lt;/a&gt;&lt;/sup&gt;语，无钱语不真&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:16&#34;&gt;&lt;a href=&#34;#fn:16&#34;&gt;18&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;不信但看筵中酒，杯杯先劝&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:17&#34;&gt;&lt;a href=&#34;#fn:17&#34;&gt;19&lt;/a&gt;&lt;/sup&gt;有钱人。&lt;/p&gt;
+
+&lt;p&gt;闹里&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:18&#34;&gt;&lt;a href=&#34;#fn:18&#34;&gt;20&lt;/a&gt;&lt;/sup&gt;有&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:19&#34;&gt;&lt;a href=&#34;#fn:19&#34;&gt;21&lt;/a&gt;&lt;/sup&gt;钱，静处安身。来如风雨，去似微尘。&lt;/p&gt;
+
+&lt;p&gt;长江后浪催&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:20&#34;&gt;&lt;a href=&#34;#fn:20&#34;&gt;22&lt;/a&gt;&lt;/sup&gt;前浪，世上新人&lt;ruby&gt;&lt;rb&gt;趱&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;zǎn&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:21&#34;&gt;&lt;a href=&#34;#fn:21&#34;&gt;23&lt;/a&gt;&lt;/sup&gt;旧人。&lt;/p&gt;
+
+&lt;p&gt;近水楼台先得月，向阳花木早逢春。&lt;/p&gt;
+
+&lt;p&gt;古人不见今时月，今月曾经照古人。&lt;/p&gt;
+
+&lt;p&gt;先到为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:22&#34;&gt;&lt;a href=&#34;#fn:22&#34;&gt;24&lt;/a&gt;&lt;/sup&gt;君，后到为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:22&#34;&gt;&lt;a href=&#34;#fn:22&#34;&gt;24&lt;/a&gt;&lt;/sup&gt;臣。&lt;/p&gt;
+
+&lt;p&gt;莫道君行早，更有早行人。&lt;/p&gt;
+
+&lt;p&gt;莫信直中直，须防仁不仁。&lt;/p&gt;
+
+&lt;p&gt;山中有直树，世上无真&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:23&#34;&gt;&lt;a href=&#34;#fn:23&#34;&gt;25&lt;/a&gt;&lt;/sup&gt;人。&lt;/p&gt;
+
+&lt;p&gt;自恨枝无叶，莫怨太阳偏。&lt;/p&gt;
+
+&lt;p&gt;大家&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:24&#34;&gt;&lt;a href=&#34;#fn:24&#34;&gt;26&lt;/a&gt;&lt;/sup&gt;皆是命，半点不由人。&lt;/p&gt;
+
+&lt;p&gt;一年之计在于春，一日之计在于寅&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:25&#34;&gt;&lt;a href=&#34;#fn:25&#34;&gt;27&lt;/a&gt;&lt;/sup&gt;；一家之计在于和，一生之计在于勤。&lt;/p&gt;
+
+&lt;p&gt;责人之心责己，恕己之心恕人。&lt;/p&gt;
+
+&lt;p&gt;守口如甁，防意如城。&lt;/p&gt;
+
+&lt;p&gt;宁可负我&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:26&#34;&gt;&lt;a href=&#34;#fn:26&#34;&gt;28&lt;/a&gt;&lt;/sup&gt;，切莫负人&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:27&#34;&gt;&lt;a href=&#34;#fn:27&#34;&gt;29&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;再三须重事&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:28&#34;&gt;&lt;a href=&#34;#fn:28&#34;&gt;30&lt;/a&gt;&lt;/sup&gt;，第一莫欺心。&lt;/p&gt;
+
+&lt;p&gt;虎生犹可近，人熟不堪亲。&lt;/p&gt;
+
+&lt;p&gt;来说是非者，便是是非人。&lt;/p&gt;
+
+&lt;p&gt;远水难救近火，远亲不如近邻。&lt;/p&gt;
+
+&lt;p&gt;有茶有酒多兄弟，急难何曾见一人？&lt;/p&gt;
+
+&lt;p&gt;人情似纸张张薄，世事如棋局局新。&lt;/p&gt;
+
+&lt;p&gt;山中也有千年树，世上难逢百歳人。&lt;/p&gt;
+
+&lt;p&gt;力微休负重，言轻莫劝人。&lt;/p&gt;
+
+&lt;p&gt;无钱休入众&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:29&#34;&gt;&lt;a href=&#34;#fn:29&#34;&gt;31&lt;/a&gt;&lt;/sup&gt;，遭难莫寻亲。&lt;/p&gt;
+
+&lt;p&gt;平生莫作&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:30&#34;&gt;&lt;a href=&#34;#fn:30&#34;&gt;32&lt;/a&gt;&lt;/sup&gt;皱眉事，世上应无切齿人。&lt;/p&gt;
+
+&lt;p&gt;士者&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:31&#34;&gt;&lt;a href=&#34;#fn:31&#34;&gt;33&lt;/a&gt;&lt;/sup&gt;国之宝，儒为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:32&#34;&gt;&lt;a href=&#34;#fn:32&#34;&gt;34&lt;/a&gt;&lt;/sup&gt;席上珍。&lt;/p&gt;
+
+&lt;p&gt;若要断酒法，醒眼看醉人。&lt;/p&gt;
+
+&lt;p&gt;求人须求英雄汉&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:33&#34;&gt;&lt;a href=&#34;#fn:33&#34;&gt;35&lt;/a&gt;&lt;/sup&gt;，济人须济急时无。&lt;/p&gt;
+
+&lt;p&gt;渴&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:34&#34;&gt;&lt;a href=&#34;#fn:34&#34;&gt;36&lt;/a&gt;&lt;/sup&gt;时一滴如甘露，醉后&lt;strong&gt;添&lt;/strong&gt;杯不如无。&lt;/p&gt;
+
+&lt;p&gt;久住令人贱，贫&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:35&#34;&gt;&lt;a href=&#34;#fn:35&#34;&gt;37&lt;/a&gt;&lt;/sup&gt;来亲也
+&lt;ruby&gt;
+    &lt;rb&gt;&lt;strong&gt;疎&lt;/strong&gt;&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;shū&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+。&lt;/p&gt;
+
+&lt;p&gt;酒中不语真&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:36&#34;&gt;&lt;a href=&#34;#fn:36&#34;&gt;38&lt;/a&gt;&lt;/sup&gt;君子，财上分明大丈夫。&lt;/p&gt;
+
+&lt;p&gt;出家如初，成佛有余。&lt;/p&gt;
+
+&lt;p&gt;积金千两，不如明解经书。&lt;/p&gt;
+
+&lt;p&gt;养子不教如养驴，养女不教如养猪&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:38&#34;&gt;&lt;a href=&#34;#fn:38&#34;&gt;39&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;有田不耕仓廪虚&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:39&#34;&gt;&lt;a href=&#34;#fn:39&#34;&gt;40&lt;/a&gt;&lt;/sup&gt;，有书不读子孙&lt;strong&gt;愚&lt;/strong&gt;。仓廪虚&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:39&#34;&gt;&lt;a href=&#34;#fn:39&#34;&gt;40&lt;/a&gt;&lt;/sup&gt;兮歳月乏，子孙愚兮礼义疎。&lt;/p&gt;
+
+&lt;p&gt;同君一夜话&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:40&#34;&gt;&lt;a href=&#34;#fn:40&#34;&gt;41&lt;/a&gt;&lt;/sup&gt;，胜读十年书。&lt;/p&gt;
+
+&lt;p&gt;人不通今古，马牛如襟裾。&lt;/p&gt;
+
+&lt;p&gt;茫茫四海人无数，那个&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:41&#34;&gt;&lt;a href=&#34;#fn:41&#34;&gt;42&lt;/a&gt;&lt;/sup&gt;男&lt;strong&gt;儿&lt;/strong&gt;是丈夫？&lt;/p&gt;
+
+&lt;p&gt;白酒酿成延&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:42&#34;&gt;&lt;a href=&#34;#fn:42&#34;&gt;43&lt;/a&gt;&lt;/sup&gt;好客，黄金散尽为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:37&#34;&gt;&lt;a href=&#34;#fn:37&#34;&gt;44&lt;/a&gt;&lt;/sup&gt;收书。&lt;/p&gt;
+
+&lt;p&gt;救人一命，胜造七级浮屠。&lt;/p&gt;
+
+&lt;p&gt;城门失火，殃及池鱼。&lt;/p&gt;
+
+&lt;p&gt;庭前生瑞草，好事不如无。&lt;/p&gt;
+
+&lt;p&gt;欲求生富贵，须下死工夫。&lt;/p&gt;
+
+&lt;p&gt;百年成之不足，一旦壤&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:43&#34;&gt;&lt;a href=&#34;#fn:43&#34;&gt;45&lt;/a&gt;&lt;/sup&gt;之有余。&lt;/p&gt;
+
+&lt;p&gt;人心似铁，国&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:44&#34;&gt;&lt;a href=&#34;#fn:44&#34;&gt;46&lt;/a&gt;&lt;/sup&gt;法如炉。&lt;/p&gt;
+
+&lt;p&gt;善化不足，恶化有余。&lt;/p&gt;
+
+&lt;p&gt;水太清&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:45&#34;&gt;&lt;a href=&#34;#fn:45&#34;&gt;47&lt;/a&gt;&lt;/sup&gt;则无鱼，人太
+&lt;ruby&gt;
+    &lt;rb&gt;𦂳&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;jǐn&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;则无智&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:46&#34;&gt;&lt;a href=&#34;#fn:46&#34;&gt;48&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;知者减半，省者全无。&lt;/p&gt;
+
+&lt;p&gt;在家由父，出嫁从夫。&lt;/p&gt;
+
+&lt;p&gt;痴人畏妇，贤女敬夫。&lt;/p&gt;
+
+&lt;p&gt;是非终日有，不听自然无。&lt;/p&gt;
+
+&lt;p&gt;宁可正而不足，不可邪而有余。&lt;/p&gt;
+
+&lt;p&gt;宁可信其有，不可信其无。&lt;/p&gt;
+
+&lt;p&gt;竹篱茅舍风光好，道院僧房&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:47&#34;&gt;&lt;a href=&#34;#fn:47&#34;&gt;49&lt;/a&gt;&lt;/sup&gt;总&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:48&#34;&gt;&lt;a href=&#34;#fn:48&#34;&gt;50&lt;/a&gt;&lt;/sup&gt;不如。&lt;/p&gt;
+
+&lt;p&gt;命里&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:49&#34;&gt;&lt;a href=&#34;#fn:49&#34;&gt;51&lt;/a&gt;&lt;/sup&gt;有时终须有，命里&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:49&#34;&gt;&lt;a href=&#34;#fn:49&#34;&gt;51&lt;/a&gt;&lt;/sup&gt;无时莫强求。&lt;/p&gt;
+
+&lt;p&gt;道院迎仙客，书堂隐相儒。&lt;/p&gt;
+
+&lt;p&gt;庭栽栖凤竹，池养化龙鱼。&lt;/p&gt;
+
+&lt;p&gt;结交须胜己，似我不如无。&lt;/p&gt;
+
+&lt;p&gt;但看三五日，相见不如初。&lt;/p&gt;
+
+&lt;p&gt;人情似水分高&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:50&#34;&gt;&lt;a href=&#34;#fn:50&#34;&gt;52&lt;/a&gt;&lt;/sup&gt;下，世事如云任卷&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:51&#34;&gt;&lt;a href=&#34;#fn:51&#34;&gt;53&lt;/a&gt;&lt;/sup&gt;舒。&lt;/p&gt;
+
+&lt;p&gt;会说说都是，不会说无礼。&lt;/p&gt;
+
+&lt;p&gt;磨刀恨不利，刀利伤人指。&lt;/p&gt;
+
+&lt;p&gt;求财恨不多&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:52&#34;&gt;&lt;a href=&#34;#fn:52&#34;&gt;54&lt;/a&gt;&lt;/sup&gt;，财多&lt;strong&gt;害&lt;/strong&gt;人&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:53&#34;&gt;&lt;a href=&#34;#fn:53&#34;&gt;55&lt;/a&gt;&lt;/sup&gt;己。&lt;/p&gt;
+
+&lt;p&gt;知足常足，终身不辱。知止常止，终身不耻。&lt;/p&gt;
+
+&lt;p&gt;有福伤财，无福伤己。&lt;/p&gt;
+
+&lt;p&gt;差之毫厘，失之千里。&lt;/p&gt;
+
+&lt;p&gt;若登高&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:54&#34;&gt;&lt;a href=&#34;#fn:54&#34;&gt;56&lt;/a&gt;&lt;/sup&gt;必自卑，若涉&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:55&#34;&gt;&lt;a href=&#34;#fn:55&#34;&gt;57&lt;/a&gt;&lt;/sup&gt;远必自
+&lt;ruby&gt;
+    &lt;rb&gt;迩&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;ěr&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;。&lt;/p&gt;
+
+&lt;p&gt;三思而行，再思可矣。&lt;/p&gt;
+
+&lt;p&gt;使口不如自走&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:56&#34;&gt;&lt;a href=&#34;#fn:56&#34;&gt;58&lt;/a&gt;&lt;/sup&gt;，求人不如求己。&lt;/p&gt;
+
+&lt;p&gt;小时是兄弟，长大各乡&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:57&#34;&gt;&lt;a href=&#34;#fn:57&#34;&gt;59&lt;/a&gt;&lt;/sup&gt;里。&lt;/p&gt;
+
+&lt;p&gt;&lt;ruby&gt;
+    &lt;rb&gt;妒&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;dù&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;财莫
+&lt;ruby&gt;
+    &lt;rb&gt;妒&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;dù&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;食，怨生莫怨死。&lt;/p&gt;
+
+&lt;p&gt;人见白头
+&lt;ruby&gt;
+    &lt;rb&gt;嗔&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;chēn&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;，我见白头&lt;strong&gt;喜&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;多少少年亡，不到白头&lt;strong&gt;死&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;墙有
+&lt;ruby&gt;
+    &lt;rb&gt;缝&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;fèng&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;，壁有耳。好事不出门，恶事传千里。&lt;/p&gt;
+
+&lt;p&gt;贼是小人，智&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:58&#34;&gt;&lt;a href=&#34;#fn:58&#34;&gt;60&lt;/a&gt;&lt;/sup&gt;过君子。君子固穷，小人穷斯
+&lt;ruby&gt;
+    &lt;rb&gt;滥&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;làn&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;矣&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:59&#34;&gt;&lt;a href=&#34;#fn:59&#34;&gt;61&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;贫穷自在，富贵多忧。&lt;/p&gt;
+
+&lt;p&gt;不以我为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:60&#34;&gt;&lt;a href=&#34;#fn:60&#34;&gt;62&lt;/a&gt;&lt;/sup&gt;德，反以我为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:60&#34;&gt;&lt;a href=&#34;#fn:60&#34;&gt;62&lt;/a&gt;&lt;/sup&gt;仇。&lt;/p&gt;
+
+&lt;p&gt;宁向直中取，不可曲中求。&lt;/p&gt;
+
+&lt;p&gt;人无远虑，必有近忧。&lt;/p&gt;
+
+&lt;p&gt;知我者为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:63&#34;&gt;&lt;a href=&#34;#fn:63&#34;&gt;63&lt;/a&gt;&lt;/sup&gt;我心忧，不知我者为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:63&#34;&gt;&lt;a href=&#34;#fn:63&#34;&gt;63&lt;/a&gt;&lt;/sup&gt;我何求？&lt;/p&gt;
+
+&lt;p&gt;晴干&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:64&#34;&gt;&lt;a href=&#34;#fn:64&#34;&gt;64&lt;/a&gt;&lt;/sup&gt;不肯去，直&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:65&#34;&gt;&lt;a href=&#34;#fn:65&#34;&gt;65&lt;/a&gt;&lt;/sup&gt;待雨淋头。&lt;/p&gt;
+
+&lt;p&gt;忍得一时之气，免得百日之忧。&lt;/p&gt;
+
+&lt;p&gt;近来学得乌龟法，得缩头时且缩头。&lt;/p&gt;
+
+&lt;p&gt;惧法朝朝乐，欺公日日忧。&lt;/p&gt;
+
+&lt;p&gt;人生一世，草生一春。&lt;/p&gt;
+
+&lt;p&gt;白&lt;strong&gt;发&lt;/strong&gt;不随老人去，看来又是白头翁。 &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:66&#34;&gt;&lt;a href=&#34;#fn:66&#34;&gt;66&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;月到&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:67&#34;&gt;&lt;a href=&#34;#fn:67&#34;&gt;67&lt;/a&gt;&lt;/sup&gt;十五光明少，人到中年万事休。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;儿&lt;/strong&gt;孙自有&lt;strong&gt;儿&lt;/strong&gt;孙福，莫把&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:68&#34;&gt;&lt;a href=&#34;#fn:68&#34;&gt;68&lt;/a&gt;&lt;/sup&gt;&lt;strong&gt;儿&lt;/strong&gt;孙作马牛。&lt;/p&gt;
+
+&lt;p&gt;人生不满百，常怀千歳忧。&lt;/p&gt;
+
+&lt;p&gt;今朝有酒今朝醉，明日愁来明日忧。&lt;/p&gt;
+
+&lt;p&gt;路逢险处难回避，事到头来不自由。&lt;/p&gt;
+
+&lt;p&gt;药能医假病，酒不&lt;strong&gt;解&lt;/strong&gt;真&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:69&#34;&gt;&lt;a href=&#34;#fn:69&#34;&gt;69&lt;/a&gt;&lt;/sup&gt;愁。&lt;/p&gt;
+
+&lt;p&gt;人贫不语，水平不流。&lt;/p&gt;
+
+&lt;p&gt;一家养&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:70&#34;&gt;&lt;a href=&#34;#fn:70&#34;&gt;70&lt;/a&gt;&lt;/sup&gt;女百家求，一马不行百马忧。&lt;/p&gt;
+
+&lt;p&gt;有花方
+&lt;ruby&gt;
+    &lt;rb&gt;酌&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;zhuó&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+酒，无月不登楼。
+三杯通大道，一醉&lt;strong&gt;解&lt;/strong&gt;千愁。&lt;/p&gt;
+
+&lt;p&gt;深山毕竟藏猛虎，大海终须&lt;strong&gt;纳&lt;/strong&gt;细流。&lt;/p&gt;
+
+&lt;p&gt;惜花须检点，爱月不&lt;strong&gt;梳&lt;/strong&gt;头。&lt;/p&gt;
+
+&lt;p&gt;大抵选他肌骨好，不傅&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:71&#34;&gt;&lt;a href=&#34;#fn:71&#34;&gt;71&lt;/a&gt;&lt;/sup&gt;红粉也风流。&lt;/p&gt;
+
+&lt;p&gt;受恩深处宜先退，得意脓&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:72&#34;&gt;&lt;a href=&#34;#fn:72&#34;&gt;72&lt;/a&gt;&lt;/sup&gt;时便可休。&lt;/p&gt;
+
+&lt;p&gt;莫待是非来入耳，从前恩爱反为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:73&#34;&gt;&lt;a href=&#34;#fn:73&#34;&gt;73&lt;/a&gt;&lt;/sup&gt;仇。&lt;/p&gt;
+
+&lt;p&gt;留得五湖明月在，不愁无处下金钩&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:74&#34;&gt;&lt;a href=&#34;#fn:74&#34;&gt;74&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;休别无&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:75&#34;&gt;&lt;a href=&#34;#fn:75&#34;&gt;75&lt;/a&gt;&lt;/sup&gt;鱼处，莫恋浅滩头。&lt;/p&gt;
+
+&lt;p&gt;去时终须去，再三留不住。&lt;/p&gt;
+
+&lt;p&gt;忍一句，息一怒，饶一着&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:76&#34;&gt;&lt;a href=&#34;#fn:76&#34;&gt;76&lt;/a&gt;&lt;/sup&gt;，退一歩。&lt;/p&gt;
+
+&lt;p&gt;三十不豪，四十不富，五十&lt;strong&gt;将&lt;/strong&gt;相&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:77&#34;&gt;&lt;a href=&#34;#fn:77&#34;&gt;77&lt;/a&gt;&lt;/sup&gt;&lt;strong&gt;寻&lt;/strong&gt;死路。&lt;/p&gt;
+
+&lt;p&gt;生不认&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:78&#34;&gt;&lt;a href=&#34;#fn:78&#34;&gt;78&lt;/a&gt;&lt;/sup&gt;魂，死不认尸。&lt;/p&gt;
+
+&lt;p&gt;父母恩深终有别，夫妻义重也分离。&lt;/p&gt;
+
+&lt;p&gt;人生似鸟同林宿，大限来时各自飞。&lt;/p&gt;
+
+&lt;p&gt;人善被人欺，马善被人骑。&lt;/p&gt;
+
+&lt;p&gt;人无横财不富，马无夜&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:79&#34;&gt;&lt;a href=&#34;#fn:79&#34;&gt;79&lt;/a&gt;&lt;/sup&gt;草不肥。&lt;/p&gt;
+
+&lt;p&gt;人恶人怕天不怕，人善人欺天不欺。&lt;/p&gt;
+
+&lt;p&gt;善恶到头终有报，只争来早与来迟。&lt;/p&gt;
+
+&lt;p&gt;黄河尙有澄淸日，岂可人无得运迟&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:80&#34;&gt;&lt;a href=&#34;#fn:80&#34;&gt;80&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;得宠思辱，安居虑危。&lt;/p&gt;
+
+&lt;p&gt;念念&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:81&#34;&gt;&lt;a href=&#34;#fn:81&#34;&gt;81&lt;/a&gt;&lt;/sup&gt;有如临敌日，心心常似过桥时。&lt;/p&gt;
+
+&lt;p&gt;英雄行险道，富贵似花枝。&lt;/p&gt;
+
+&lt;p&gt;人情莫道春光好，只怕秋来有冷时。&lt;/p&gt;
+
+&lt;p&gt;送君千里，终须一别。&lt;/p&gt;
+
+&lt;p&gt;但&lt;strong&gt;将&lt;/strong&gt;冷眼看螃
+&lt;ruby&gt;
+    &lt;rb&gt;&lt;strong&gt;蠏&lt;/strong&gt;&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;xiè&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:82&#34;&gt;&lt;a href=&#34;#fn:82&#34;&gt;82&lt;/a&gt;&lt;/sup&gt;，看你&lt;strong&gt;横&lt;/strong&gt;行到几时。&lt;/p&gt;
+
+&lt;p&gt;见事莫说，问事不知。
+闲&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:83&#34;&gt;&lt;a href=&#34;#fn:83&#34;&gt;83&lt;/a&gt;&lt;/sup&gt;事莫&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:84&#34;&gt;&lt;a href=&#34;#fn:84&#34;&gt;84&lt;/a&gt;&lt;/sup&gt;管，无事早归。&lt;/p&gt;
+
+&lt;p&gt;假缎&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:85&#34;&gt;&lt;a href=&#34;#fn:85&#34;&gt;85&lt;/a&gt;&lt;/sup&gt;&lt;strong&gt;染&lt;/strong&gt;就真&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:86&#34;&gt;&lt;a href=&#34;#fn:86&#34;&gt;86&lt;/a&gt;&lt;/sup&gt;红色，也被旁人说是非。&lt;/p&gt;
+
+&lt;p&gt;善事可作，恶事莫为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:87&#34;&gt;&lt;a href=&#34;#fn:87&#34;&gt;87&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;许人一物，千金不移。&lt;/p&gt;
+
+&lt;p&gt;龙生龙子，虎生豹&lt;strong&gt;儿&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;龙游浅水遭虾戏，虎落平坦&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:88&#34;&gt;&lt;a href=&#34;#fn:88&#34;&gt;88&lt;/a&gt;&lt;/sup&gt;被犬欺。&lt;/p&gt;
+
+&lt;p&gt;一举首登龙虎榜，十年身到凤凰池。
+十年窗下无人问，一举成名天下知&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:89&#34;&gt;&lt;a href=&#34;#fn:89&#34;&gt;89&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;酒债寻常行处有，人生七十古来稀。&lt;/p&gt;
+
+&lt;p&gt;养儿代&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:90&#34;&gt;&lt;a href=&#34;#fn:90&#34;&gt;90&lt;/a&gt;&lt;/sup&gt;老，积&lt;/strong&gt;谷&lt;/strong&gt;防饥&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:91&#34;&gt;&lt;a href=&#34;#fn:91&#34;&gt;91&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;鸡&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:92&#34;&gt;&lt;a href=&#34;#fn:92&#34;&gt;92&lt;/a&gt;&lt;/sup&gt;豚狗
+&lt;ruby&gt;
+    &lt;rb&gt;&lt;strong&gt;彘&lt;/strong&gt;&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;zhì&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;之畜，无失其时。数家之口，可以无饥&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:93&#34;&gt;&lt;a href=&#34;#fn:93&#34;&gt;93&lt;/a&gt;&lt;/sup&gt;矣。&lt;/p&gt;
+
+&lt;p&gt;常&lt;strong&gt;将&lt;/strong&gt;有日思无日，莫把无时当有时。&lt;/p&gt;
+
+&lt;p&gt;时来风送
+&lt;ruby&gt;
+    &lt;rb&gt;滕&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;téng&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+王阁，运去雷轰荐福碑。&lt;/p&gt;
+
+&lt;p&gt;入门休问荣枯事，观看容颜便得知。&lt;/p&gt;
+
+&lt;p&gt;官淸&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:94&#34;&gt;&lt;a href=&#34;#fn:94&#34;&gt;94&lt;/a&gt;&lt;/sup&gt;书
+&lt;ruby&gt;
+    &lt;rb&gt;&lt;strong&gt;吏&lt;/strong&gt;&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;lì&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+瘦，神灵庙作&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:95&#34;&gt;&lt;a href=&#34;#fn:95&#34;&gt;95&lt;/a&gt;&lt;/sup&gt;肥。&lt;/p&gt;
+
+&lt;p&gt;息&lt;strong&gt;却&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:96&#34;&gt;&lt;a href=&#34;#fn:96&#34;&gt;96&lt;/a&gt;&lt;/sup&gt;雷霆之怒，罢&lt;strong&gt;却&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:96&#34;&gt;&lt;a href=&#34;#fn:96&#34;&gt;96&lt;/a&gt;&lt;/sup&gt;虎狼之威。&lt;/p&gt;
+
+&lt;p&gt;饶人算之本&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:97&#34;&gt;&lt;a href=&#34;#fn:97&#34;&gt;97&lt;/a&gt;&lt;/sup&gt;，输人算之机&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:98&#34;&gt;&lt;a href=&#34;#fn:98&#34;&gt;98&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;好言难得，恶语易施。&lt;/p&gt;
+
+&lt;p&gt;一言既&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:99&#34;&gt;&lt;a href=&#34;#fn:99&#34;&gt;99&lt;/a&gt;&lt;/sup&gt;出，
+&lt;ruby&gt;
+    &lt;rb&gt;驷&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;sì&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;马&lt;strong&gt;难&lt;/strong&gt;追。&lt;/p&gt;
+
+&lt;p&gt;道吾好者是吾贼，道吾恶者是吾师。&lt;/p&gt;
+
+&lt;p&gt;路逢险处须当避&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:100&#34;&gt;&lt;a href=&#34;#fn:100&#34;&gt;100&lt;/a&gt;&lt;/sup&gt;，不是才人莫献诗。&lt;/p&gt;
+
+&lt;p&gt;三人同行，必有我师焉，择其善者而从之，其不善者而改之。&lt;/p&gt;
+
+&lt;p&gt;少年&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:101&#34;&gt;&lt;a href=&#34;#fn:101&#34;&gt;101&lt;/a&gt;&lt;/sup&gt;不努力，老来&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:102&#34;&gt;&lt;a href=&#34;#fn:102&#34;&gt;102&lt;/a&gt;&lt;/sup&gt;徒伤悲。&lt;/p&gt;
+
+&lt;p&gt;人有善愿，天必佑之。&lt;/p&gt;
+
+&lt;p&gt;莫饮
+&lt;ruby&gt;
+    &lt;rb&gt;喫&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;chī&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:103&#34;&gt;&lt;a href=&#34;#fn:103&#34;&gt;103&lt;/a&gt;&lt;/sup&gt;卯时酒，昏昏醉到
+&lt;ruby&gt;
+    &lt;rb&gt;酉&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;yǒu&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;。
+莫骂
+&lt;ruby&gt;
+    &lt;rb&gt;酉&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;yǒu&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;时妻，一夜受孤
+&lt;ruby&gt;
+    &lt;rb&gt;凄&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;qī&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:104&#34;&gt;&lt;a href=&#34;#fn:104&#34;&gt;104&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;种麻得麻，种豆得豆。&lt;/p&gt;
+
+&lt;p&gt;天眼恢恢，&lt;strong&gt;疎&lt;/strong&gt;而不漏。&lt;/p&gt;
+
+&lt;p&gt;见官莫向前，做客莫在后。&lt;/p&gt;
+
+&lt;p&gt;宁添一斗，莫添一口。&lt;/p&gt;
+
+&lt;p&gt;螳螂捕蝉，岂知黄雀在后。&lt;/p&gt;
+
+&lt;p&gt;不求金玉重重贵，但愿&lt;strong&gt;儿&lt;/strong&gt;孙个个&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:105&#34;&gt;&lt;a href=&#34;#fn:105&#34;&gt;105&lt;/a&gt;&lt;/sup&gt;贤。&lt;/p&gt;
+
+&lt;p&gt;一日夫妻，百世姻缘&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:106&#34;&gt;&lt;a href=&#34;#fn:106&#34;&gt;106&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;百世修来同船渡，千世修来共枕眠。&lt;/p&gt;
+
+&lt;p&gt;杀人一万，自损三千。
+伤人一语，利如刀割。&lt;/p&gt;
+
+&lt;p&gt;枯木逢春犹再发，人无两度再少年。&lt;/p&gt;
+
+&lt;p&gt;未晩先投宿，鸡&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:107&#34;&gt;&lt;a href=&#34;#fn:107&#34;&gt;107&lt;/a&gt;&lt;/sup&gt;鸣早看天。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;将&lt;/strong&gt;相头顶&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:108&#34;&gt;&lt;a href=&#34;#fn:108&#34;&gt;108&lt;/a&gt;&lt;/sup&gt;堪走马，公&lt;strong&gt;侯&lt;/strong&gt;肚里好撑&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:109&#34;&gt;&lt;a href=&#34;#fn:109&#34;&gt;109&lt;/a&gt;&lt;/sup&gt;船。&lt;/p&gt;
+
+&lt;p&gt;富人思来年，穷人思&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:110&#34;&gt;&lt;a href=&#34;#fn:110&#34;&gt;110&lt;/a&gt;&lt;/sup&gt;眼前。&lt;/p&gt;
+
+&lt;p&gt;世人&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:111&#34;&gt;&lt;a href=&#34;#fn:111&#34;&gt;111&lt;/a&gt;&lt;/sup&gt;若要人情好，
+&lt;ruby&gt;
+    &lt;rb&gt;&lt;strong&gt;赊&lt;/strong&gt;&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;shē&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+去物件莫取钱。&lt;/p&gt;
+
+&lt;p&gt;死生由&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:112&#34;&gt;&lt;a href=&#34;#fn:112&#34;&gt;112&lt;/a&gt;&lt;/sup&gt;命，富贵在天。&lt;/p&gt;
+
+&lt;p&gt;撃石原有火，不撃乃无烟。&lt;/p&gt;
+
+&lt;p&gt;人&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:113&#34;&gt;&lt;a href=&#34;#fn:113&#34;&gt;113&lt;/a&gt;&lt;/sup&gt;学始知道，不学亦徒然。&lt;/p&gt;
+
+&lt;p&gt;莫笑他人老，终须还到老。&lt;/p&gt;
+
+&lt;p&gt;但能依本分，终须无烦恼。&lt;/p&gt;
+
+&lt;p&gt;君子爱财，取之有道。
+贞妇爱色，纳之以礼。&lt;/p&gt;
+
+&lt;p&gt;善有善报，恶有恶报。
+不是不报，日子不到。&lt;/p&gt;
+
+&lt;p&gt;人而无信，不知其可也。&lt;/p&gt;
+
+&lt;p&gt;一人道好&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:114&#34;&gt;&lt;a href=&#34;#fn:114&#34;&gt;114&lt;/a&gt;&lt;/sup&gt;，千人传实。&lt;/p&gt;
+
+&lt;p&gt;凡事要好，须问三老。&lt;/p&gt;
+
+&lt;p&gt;若争小可，便失大道。&lt;/p&gt;
+
+&lt;p&gt;年年防饥，夜夜防盗。&lt;/p&gt;
+
+&lt;p&gt;学者是好，不学不好。&lt;/p&gt;
+
+&lt;p&gt;学者如禾如&lt;strong&gt;稻&lt;/strong&gt;，不学者如
+&lt;ruby&gt;
+    &lt;rb&gt;蒿&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;hāo&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;如草。&lt;/p&gt;
+
+&lt;p&gt;遇饮酒时须饮酒，得髙歌处且髙歌。&lt;/p&gt;
+
+&lt;p&gt;因风吹火，用力不多。&lt;/p&gt;
+
+&lt;p&gt;不因渔父引，怎得见波&lt;strong&gt;涛&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;无求到处人情好，不饮从他酒价高&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:115&#34;&gt;&lt;a href=&#34;#fn:115&#34;&gt;115&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;知事少时烦恼少，识人多处是非多。&lt;/p&gt;
+
+&lt;p&gt;入山不怕伤人虎，只怕人情两面刀。&lt;/p&gt;
+
+&lt;p&gt;强&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:116&#34;&gt;&lt;a href=&#34;#fn:116&#34;&gt;116&lt;/a&gt;&lt;/sup&gt;中更有强&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:116&#34;&gt;&lt;a href=&#34;#fn:116&#34;&gt;116&lt;/a&gt;&lt;/sup&gt;中手，恶人须用恶人磨。&lt;/p&gt;
+
+&lt;p&gt;会使不在家豪富，风流不用着&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:117&#34;&gt;&lt;a href=&#34;#fn:117&#34;&gt;117&lt;/a&gt;&lt;/sup&gt;衣多。&lt;/p&gt;
+
+&lt;p&gt;光阴似箭，日月如梭。&lt;/p&gt;
+
+&lt;p&gt;天时不如地利，地利不如人和。&lt;/p&gt;
+
+&lt;p&gt;黄金未为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:118&#34;&gt;&lt;a href=&#34;#fn:118&#34;&gt;118&lt;/a&gt;&lt;/sup&gt;贵，安乐值钱多。&lt;/p&gt;
+
+&lt;p&gt;世上&lt;strong&gt;万&lt;/strong&gt;般皆下品，思量惟&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:119&#34;&gt;&lt;a href=&#34;#fn:119&#34;&gt;119&lt;/a&gt;&lt;/sup&gt;有读书高&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:120&#34;&gt;&lt;a href=&#34;#fn:120&#34;&gt;120&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;世间好语书说尽，天下名山僧占&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:122&#34;&gt;&lt;a href=&#34;#fn:122&#34;&gt;121&lt;/a&gt;&lt;/sup&gt;多。&lt;/p&gt;
+
+&lt;p&gt;为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:123&#34;&gt;&lt;a href=&#34;#fn:123&#34;&gt;122&lt;/a&gt;&lt;/sup&gt;善最乐，作&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:124&#34;&gt;&lt;a href=&#34;#fn:124&#34;&gt;123&lt;/a&gt;&lt;/sup&gt;恶难逃。&lt;/p&gt;
+
+&lt;p&gt;羊有跪乳之恩，鸦有反
+&lt;ruby&gt;
+    &lt;rb&gt;哺&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;bǔ&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;之义。&lt;/p&gt;
+
+&lt;p&gt;你急他未急，人间&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:125&#34;&gt;&lt;a href=&#34;#fn:125&#34;&gt;124&lt;/a&gt;&lt;/sup&gt;心不间&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:125&#34;&gt;&lt;a href=&#34;#fn:125&#34;&gt;124&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;隐恶扬善，执其两端。&lt;/p&gt;
+
+&lt;p&gt;妻贤夫祸少，子孝父心宽。&lt;/p&gt;
+
+&lt;p&gt;既&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:126&#34;&gt;&lt;a href=&#34;#fn:126&#34;&gt;125&lt;/a&gt;&lt;/sup&gt;坠釜
+&lt;ruby&gt;
+    &lt;rb&gt;甑&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;zèng&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;，反顾无益。
+反&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:127&#34;&gt;&lt;a href=&#34;#fn:127&#34;&gt;126&lt;/a&gt;&lt;/sup&gt;覆之水，收之实难。&lt;/p&gt;
+
+&lt;p&gt;人生知足何时足，人老偷&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:128&#34;&gt;&lt;a href=&#34;#fn:128&#34;&gt;127&lt;/a&gt;&lt;/sup&gt;闲且是闲。&lt;/p&gt;
+
+&lt;p&gt;但有绿杨堪
+&lt;ruby&gt;
+    &lt;rb&gt;系&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;jì&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;马，处处有路透&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:129&#34;&gt;&lt;a href=&#34;#fn:129&#34;&gt;128&lt;/a&gt;&lt;/sup&gt;长安。&lt;/p&gt;
+
+&lt;p&gt;见者易，学者难。&lt;/p&gt;
+
+&lt;p&gt;莫&lt;strong&gt;将&lt;/strong&gt;容易得，便作等闲看。&lt;/p&gt;
+
+&lt;p&gt;用心计较般般错，退步&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:130&#34;&gt;&lt;a href=&#34;#fn:130&#34;&gt;129&lt;/a&gt;&lt;/sup&gt;思量事事难。&lt;/p&gt;
+
+&lt;p&gt;道路各别，养家一般。&lt;/p&gt;
+
+&lt;p&gt;从俭入奢易，从奢入俭难。&lt;/p&gt;
+
+&lt;p&gt;知音说与知音听，不是知音莫与弹。&lt;/p&gt;
+
+&lt;p&gt;点石化为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:131&#34;&gt;&lt;a href=&#34;#fn:131&#34;&gt;130&lt;/a&gt;&lt;/sup&gt;金，人心犹未足。&lt;/p&gt;
+
+&lt;p&gt;信了肚&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:132&#34;&gt;&lt;a href=&#34;#fn:132&#34;&gt;131&lt;/a&gt;&lt;/sup&gt;，卖了无&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:133&#34;&gt;&lt;a href=&#34;#fn:133&#34;&gt;132&lt;/a&gt;&lt;/sup&gt;。
+他人
+&lt;ruby&gt;
+    &lt;rb&gt;睍&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;xiàn&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&lt;ruby&gt;
+    &lt;rb&gt;睍&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;xiàn&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:134&#34;&gt;&lt;a href=&#34;#fn:134&#34;&gt;133&lt;/a&gt;&lt;/sup&gt;，不涉&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:135&#34;&gt;&lt;a href=&#34;#fn:135&#34;&gt;134&lt;/a&gt;&lt;/sup&gt;你目。
+他人碌碌，不涉&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:135&#34;&gt;&lt;a href=&#34;#fn:135&#34;&gt;134&lt;/a&gt;&lt;/sup&gt;你足。&lt;/p&gt;
+
+&lt;p&gt;谁人不爱子孙贤，谁人不爱千钟粟。奈五行不是这般题目&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:136&#34;&gt;&lt;a href=&#34;#fn:136&#34;&gt;135&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;莫把真&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:137&#34;&gt;&lt;a href=&#34;#fn:137&#34;&gt;136&lt;/a&gt;&lt;/sup&gt;心空计较，儿孙自有儿孙福。&lt;/p&gt;
+
+&lt;p&gt;与人不和，劝人养鹅；与人不睦，劝人架屋。&lt;/p&gt;
+
+&lt;p&gt;但行好事，莫问前程。&lt;/p&gt;
+
+&lt;p&gt;河狭水急&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:138&#34;&gt;&lt;a href=&#34;#fn:138&#34;&gt;137&lt;/a&gt;&lt;/sup&gt;，人急计生。
+明知山有虎，莫向虎山行。&lt;/p&gt;
+
+&lt;p&gt;路不行不到，事不为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:139&#34;&gt;&lt;a href=&#34;#fn:139&#34;&gt;138&lt;/a&gt;&lt;/sup&gt;不成。
+人不劝不善，钟不打不鸣。&lt;/p&gt;
+
+&lt;p&gt;无钱方断酒，临老始看经。&lt;/p&gt;
+
+&lt;p&gt;点塔七层，不如暗处一灯。&lt;/p&gt;
+
+&lt;p&gt;万事劝人休瞒
+&lt;ruby&gt;
+    &lt;rb&gt;昧&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;mèi&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;，举头三尺有神明。&lt;/p&gt;
+
+&lt;p&gt;但存方寸地&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:140&#34;&gt;&lt;a href=&#34;#fn:140&#34;&gt;139&lt;/a&gt;&lt;/sup&gt;，留与子孙耕。&lt;/p&gt;
+
+&lt;p&gt;灭&lt;strong&gt;却&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:141&#34;&gt;&lt;a href=&#34;#fn:141&#34;&gt;140&lt;/a&gt;&lt;/sup&gt;心头火，剔起佛前灯。&lt;/p&gt;
+
+&lt;p&gt;惺惺常不足，蒙蒙&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:142&#34;&gt;&lt;a href=&#34;#fn:142&#34;&gt;141&lt;/a&gt;&lt;/sup&gt;作公卿。&lt;/p&gt;
+
+&lt;p&gt;众星朗朗，不如孤月独明。&lt;/p&gt;
+
+&lt;p&gt;兄弟相&lt;strong&gt;害&lt;/strong&gt;，不如自生。&lt;/p&gt;
+
+&lt;p&gt;合理可作，小利莫争。&lt;/p&gt;
+
+&lt;p&gt;牡丹花好空入目，&lt;strong&gt;枣&lt;/strong&gt;花须&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:143&#34;&gt;&lt;a href=&#34;#fn:143&#34;&gt;142&lt;/a&gt;&lt;/sup&gt;小结实成。&lt;/p&gt;
+
+&lt;p&gt;欺老莫欺小，欺人心不明。&lt;/p&gt;
+
+&lt;p&gt;随分耕锄收地利，他时饱
+&lt;ruby&gt;
+    &lt;rb&gt;煖&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;nuǎn&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:144&#34;&gt;&lt;a href=&#34;#fn:144&#34;&gt;143&lt;/a&gt;&lt;/sup&gt;谢苍天。&lt;/p&gt;
+
+&lt;p&gt;得忍且忍，得耐且耐。不忍不耐，小事成大。&lt;/p&gt;
+
+&lt;p&gt;相论逞英雄，家计渐渐退。&lt;/p&gt;
+
+&lt;p&gt;贤妇令夫贵，恶妇令夫败。&lt;/p&gt;
+
+&lt;p&gt;一人有庆，兆民感&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:145&#34;&gt;&lt;a href=&#34;#fn:145&#34;&gt;144&lt;/a&gt;&lt;/sup&gt;赖。&lt;/p&gt;
+
+&lt;p&gt;人老心未老，人穷志莫穷。&lt;/p&gt;
+
+&lt;p&gt;人无千日好，花无百日红。&lt;/p&gt;
+
+&lt;p&gt;杀人可恕，情理难容。&lt;/p&gt;
+
+&lt;p&gt;乍富不知新受用，乍贫难改旧家风。&lt;/p&gt;
+
+&lt;p&gt;座上客常满，樽中酒不空。&lt;/p&gt;
+
+&lt;p&gt;屋漏更遭连夜雨，行船又被&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:146&#34;&gt;&lt;a href=&#34;#fn:146&#34;&gt;145&lt;/a&gt;&lt;/sup&gt;打头风。&lt;/p&gt;
+
+&lt;p&gt;笋&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:147&#34;&gt;&lt;a href=&#34;#fn:147&#34;&gt;146&lt;/a&gt;&lt;/sup&gt;因落
+&lt;ruby&gt;
+    &lt;rb&gt;箨&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;tuò&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;方成竹，鱼为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;147&lt;/a&gt;&lt;/sup&gt;奔波始化龙。&lt;/p&gt;
+
+&lt;p&gt;记得少年骑竹马，看看又是白头翁。&lt;/p&gt;
+
+&lt;p&gt;礼义生于富足，盗贼出于贫穷。&lt;/p&gt;
+
+&lt;p&gt;天上&lt;strong&gt;众&lt;/strong&gt;星皆拱照&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:148&#34;&gt;&lt;a href=&#34;#fn:148&#34;&gt;148&lt;/a&gt;&lt;/sup&gt;，世间无水不朝东。&lt;/p&gt;
+
+&lt;p&gt;君子安贫，达人知命。&lt;/p&gt;
+
+&lt;p&gt;忠言逆耳利于行，良药苦口利于病。 &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:149&#34;&gt;&lt;a href=&#34;#fn:149&#34;&gt;149&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;顺天者存，逆天者亡。&lt;/p&gt;
+
+&lt;p&gt;人为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:150&#34;&gt;&lt;a href=&#34;#fn:150&#34;&gt;150&lt;/a&gt;&lt;/sup&gt;财死，鸟为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:150&#34;&gt;&lt;a href=&#34;#fn:150&#34;&gt;150&lt;/a&gt;&lt;/sup&gt;食亡。&lt;/p&gt;
+
+&lt;p&gt;夫妻相合好，琴瑟与笙簧。&lt;/p&gt;
+
+&lt;p&gt;有&lt;strong&gt;儿&lt;/strong&gt;贫不久，无子富不长。&lt;/p&gt;
+
+&lt;p&gt;善必&lt;strong&gt;寿&lt;/strong&gt;老，恶必早亡。&lt;/p&gt;
+
+&lt;p&gt;爽口食多偏作药，快心事过恐生殃。&lt;/p&gt;
+
+&lt;p&gt;富贵定要安本分，贫穷不必枉思量。&lt;/p&gt;
+
+&lt;p&gt;画水无风空作浪，&lt;strong&gt;绣&lt;/strong&gt;花虽好不闻香。&lt;/p&gt;
+
+&lt;p&gt;贪他一斗米，失&lt;strong&gt;却&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:151&#34;&gt;&lt;a href=&#34;#fn:151&#34;&gt;151&lt;/a&gt;&lt;/sup&gt;半年粮。
+争他一&lt;strong&gt;脚&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:152&#34;&gt;&lt;a href=&#34;#fn:152&#34;&gt;152&lt;/a&gt;&lt;/sup&gt;豚，反失一
+&lt;ruby&gt;
+    &lt;rb&gt;肘&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;zhǒu&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;羊。&lt;/p&gt;
+
+&lt;p&gt;龙归晩洞云犹湿，麝过春山草木香。&lt;/p&gt;
+
+&lt;p&gt;平生只&lt;strong&gt;会&lt;/strong&gt;量人短，何不回头把自量。&lt;/p&gt;
+
+&lt;p&gt;见善如不及，见恶如探汤。&lt;/p&gt;
+
+&lt;p&gt;人贫志短，马瘦毛长。&lt;/p&gt;
+
+&lt;p&gt;自家心里急，他人未知忙。&lt;/p&gt;
+
+&lt;p&gt;贫无达士&lt;strong&gt;将&lt;/strong&gt;金赠，病无&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:153&#34;&gt;&lt;a href=&#34;#fn:153&#34;&gt;153&lt;/a&gt;&lt;/sup&gt;高&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:154&#34;&gt;&lt;a href=&#34;#fn:154&#34;&gt;154&lt;/a&gt;&lt;/sup&gt;人说药方。&lt;/p&gt;
+
+&lt;p&gt;触来莫与说，事过心清&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:155&#34;&gt;&lt;a href=&#34;#fn:155&#34;&gt;155&lt;/a&gt;&lt;/sup&gt;凉。&lt;/p&gt;
+
+&lt;p&gt;秋至满山多秀色，春来无处不花香。&lt;/p&gt;
+
+&lt;p&gt;人&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:156&#34;&gt;&lt;a href=&#34;#fn:156&#34;&gt;156&lt;/a&gt;&lt;/sup&gt;不可貌相，水&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:157&#34;&gt;&lt;a href=&#34;#fn:157&#34;&gt;157&lt;/a&gt;&lt;/sup&gt;不可斗量。&lt;/p&gt;
+
+&lt;p&gt;清清&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:158&#34;&gt;&lt;a href=&#34;#fn:158&#34;&gt;158&lt;/a&gt;&lt;/sup&gt;之水，为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:159&#34;&gt;&lt;a href=&#34;#fn:159&#34;&gt;159&lt;/a&gt;&lt;/sup&gt;土所防&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:160&#34;&gt;&lt;a href=&#34;#fn:160&#34;&gt;160&lt;/a&gt;&lt;/sup&gt;。济济之士，为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:159&#34;&gt;&lt;a href=&#34;#fn:159&#34;&gt;159&lt;/a&gt;&lt;/sup&gt;酒所伤。&lt;/p&gt;
+
+&lt;p&gt;&lt;ruby&gt;
+    &lt;rb&gt;蒿&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;hāo&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;草之下，或有兰香。茅
+&lt;ruby&gt;
+    &lt;rb&gt;茨&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;cí&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;之屋，或有良&lt;strong&gt;将&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:161&#34;&gt;&lt;a href=&#34;#fn:161&#34;&gt;161&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;无限朱门生饿
+&lt;ruby&gt;
+    &lt;rb&gt;殍&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;piǎo&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;，几多白屋出公卿。&lt;/p&gt;
+
+&lt;p&gt;醉后&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:162&#34;&gt;&lt;a href=&#34;#fn:162&#34;&gt;162&lt;/a&gt;&lt;/sup&gt;乾坤大，壶中日月长。&lt;/p&gt;
+
+&lt;p&gt;万事省己&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:163&#34;&gt;&lt;a href=&#34;#fn:163&#34;&gt;163&lt;/a&gt;&lt;/sup&gt;定，浮生空自茫&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:164&#34;&gt;&lt;a href=&#34;#fn:164&#34;&gt;164&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;千里送毫毛，寄物不寄失&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:165&#34;&gt;&lt;a href=&#34;#fn:165&#34;&gt;165&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;一人传虚，百人传实。&lt;/p&gt;
+
+&lt;p&gt;世事明如镜，前程暗似漆。&lt;/p&gt;
+
+&lt;p&gt;光阴较金为贵&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:166&#34;&gt;&lt;a href=&#34;#fn:166&#34;&gt;166&lt;/a&gt;&lt;/sup&gt;，一世如
+&lt;ruby&gt;
+    &lt;rb&gt;驹&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;jū&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;过隙。&lt;/p&gt;
+
+&lt;p&gt;良田万顷，日食一升。
+大厦&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:167&#34;&gt;&lt;a href=&#34;#fn:167&#34;&gt;167&lt;/a&gt;&lt;/sup&gt;千间，夜眠八尺。&lt;/p&gt;
+
+&lt;p&gt;千经&lt;strong&gt;万&lt;/strong&gt;典，孝义为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:168&#34;&gt;&lt;a href=&#34;#fn:168&#34;&gt;168&lt;/a&gt;&lt;/sup&gt;先。&lt;/p&gt;
+
+&lt;p&gt;一字入公门，九牛拖&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:169&#34;&gt;&lt;a href=&#34;#fn:169&#34;&gt;169&lt;/a&gt;&lt;/sup&gt;不出。&lt;/p&gt;
+
+&lt;p&gt;&lt;ruby&gt;
+    &lt;rb&gt;衙&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;yá&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+门八字开&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:170&#34;&gt;&lt;a href=&#34;#fn:170&#34;&gt;170&lt;/a&gt;&lt;/sup&gt;，有理无钱莫进来。&lt;/p&gt;
+
+&lt;p&gt;富从升合起，贫因不算来。&lt;/p&gt;
+
+&lt;p&gt;家中无才子，官从何处来。&lt;/p&gt;
+
+&lt;p&gt;万事不由人计较，一生都是命安排。&lt;/p&gt;
+
+&lt;p&gt;急行慢行，前程只有多少路。&lt;/p&gt;
+
+&lt;p&gt;人间私语，天闻若雷。
+暗室&lt;strong&gt;亏&lt;/strong&gt;心，神目如电。&lt;/p&gt;
+
+&lt;p&gt;一&lt;strong&gt;毫&lt;/strong&gt;之恶，劝人莫作。一&lt;strong&gt;毫&lt;/strong&gt;之&lt;strong&gt;善&lt;/strong&gt;，与人方便。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;亏&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:171&#34;&gt;&lt;a href=&#34;#fn:171&#34;&gt;171&lt;/a&gt;&lt;/sup&gt;人是祸，饶人是福。&lt;/p&gt;
+
+&lt;p&gt;天眼&lt;strong&gt;恢恢&lt;/strong&gt;，报应甚&lt;strong&gt;速&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;圣贤言语，神钦鬼伏。&lt;/p&gt;
+
+&lt;p&gt;人各有心，心各有见。&lt;/p&gt;
+
+&lt;p&gt;养军千日，用在一朝。&lt;/p&gt;
+
+&lt;p&gt;国清&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:172&#34;&gt;&lt;a href=&#34;#fn:172&#34;&gt;172&lt;/a&gt;&lt;/sup&gt;才子贵，家富小&lt;strong&gt;儿&lt;/strong&gt;骄。&lt;/p&gt;
+
+&lt;p&gt;利刀&lt;strong&gt;割&lt;/strong&gt;体痕易合，恶语伤人恨不消。&lt;/p&gt;
+
+&lt;p&gt;公道世间惟&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:173&#34;&gt;&lt;a href=&#34;#fn:173&#34;&gt;173&lt;/a&gt;&lt;/sup&gt;白发，贵人头上不曾饶。&lt;/p&gt;
+
+&lt;p&gt;有钱堪出&lt;strong&gt;众&lt;/strong&gt;，无衣&lt;strong&gt;懒&lt;/strong&gt;出门。&lt;/p&gt;
+
+&lt;p&gt;为&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:174&#34;&gt;&lt;a href=&#34;#fn:174&#34;&gt;174&lt;/a&gt;&lt;/sup&gt;官须作相，及第必争先。&lt;/p&gt;
+
+&lt;p&gt;苗从地发，树向枝分。&lt;/p&gt;
+
+&lt;p&gt;父子和而家不退，兄弟和而家不分。&lt;/p&gt;
+
+&lt;p&gt;官有正条，民有和约。&lt;/p&gt;
+
+&lt;p&gt;闲时不烧香，急时抱佛脚&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:175&#34;&gt;&lt;a href=&#34;#fn:175&#34;&gt;175&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;幸生太平无事日，恐逢年老不多时。&lt;/p&gt;
+
+&lt;p&gt;国乱思良&lt;strong&gt;将&lt;/strong&gt;，家贫思贤妻。&lt;/p&gt;
+
+&lt;p&gt;池塘积水须防旱，田地深&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:176&#34;&gt;&lt;a href=&#34;#fn:176&#34;&gt;176&lt;/a&gt;&lt;/sup&gt;耕足养家。&lt;/p&gt;
+
+&lt;p&gt;根深不怕风摇&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:177&#34;&gt;&lt;a href=&#34;#fn:177&#34;&gt;177&lt;/a&gt;&lt;/sup&gt;动，树正何&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:178&#34;&gt;&lt;a href=&#34;#fn:178&#34;&gt;178&lt;/a&gt;&lt;/sup&gt;愁月影斜。&lt;/p&gt;
+
+&lt;p&gt;奉劝君子各宜守己&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:179&#34;&gt;&lt;a href=&#34;#fn:179&#34;&gt;179&lt;/a&gt;&lt;/sup&gt;。
+只此程式&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:180&#34;&gt;&lt;a href=&#34;#fn:180&#34;&gt;180&lt;/a&gt;&lt;/sup&gt;，万无一失。&lt;/p&gt;
+
+&lt;h1 id=&#34;后记&#34;&gt;后记&lt;/h1&gt;
+
+&lt;p&gt;此文献给敬爱的爷爷。&lt;/p&gt;
+
+&lt;p&gt;他亲手交给我这本增广贤文，教会我许多做人哲理。当初刚刚拿到这本书时，是爱不释手地品读。直到如今，每当读着本书的每个字，都会想起爷爷用手指着书上的字，一边读给我听的身影。&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:9&#34;&gt;原文作「鉴」，维基作「鉴」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:9&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:121&#34;&gt;原文作「高」，维基作「髙」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:121&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;原文作「样」，维基作「洋」。待考。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;原文作「遥」，维基作「遥」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;原文疑误作相反，待考。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:61&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:61&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:62&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:62&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;原文作「却」，维基作「却」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;原文作「乡」，维基作「鄕」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:6&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34;&gt;原文作「便」，维基作「使」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:7&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34;&gt;原文作「路」，维基作「外」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:8&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34;&gt;原文作「金」，维基作「芩」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:10&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34;&gt;原文作「真」，维基作「眞」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:11&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:12&#34;&gt;原文作「&lt;nobr lang=&#34;zh-CN&#34;&gt;恐&lt;/nobr&gt;」，维基作「&lt;nobr lang=&#34;zh-HK&#34;&gt;恐&lt;/nobr&gt;」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:12&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:13&#34;&gt;维基作「客来主不顾，自是无良宾；良宾主不顾，应&lt;nobr lang=&#34;zh-HK&#34;&gt;恐&lt;/nobr&gt;是痴人。」
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:13&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:14&#34;&gt;原文作「那」，维基作「哪」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:14&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:15&#34;&gt;原文作「个」，维基作「箇」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:15&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:16&#34;&gt;原文作「真」，维基作「眞」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:16&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:17&#34;&gt;原文作「劝」，维基作「敬」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:17&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:18&#34;&gt;原文作「里」，维基作「里」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:18&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:19&#34;&gt;原文作「有」，维基作「挣」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:19&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:20&#34;&gt;原文作「催」，维基作「推」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:20&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:21&#34;&gt;原文作「趱」，维基作「赶」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:21&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:22&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:22&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:23&#34;&gt;原文作「真」，维基作「直」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:23&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:24&#34;&gt;原文作「大家」，维基作「万般」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:24&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:25&#34;&gt;原文作「寅」，维基作「晨」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:25&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:26&#34;&gt;原文作「负我」，维基作「人负我」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:26&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:27&#34;&gt;原文作「负人」，维基作「我负人」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:27&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:28&#34;&gt;原文作「重事」，维基作「愼意」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:28&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:29&#34;&gt;原文作「众」，维基作「众」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:29&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:30&#34;&gt;原文作「莫作」，维基作「不做」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:30&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:31&#34;&gt;原文作「者」，维基作「乃」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:31&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:32&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:32&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:33&#34;&gt;原文作「英雄汉」，维基作「大丈夫」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:33&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:34&#34;&gt;原文作「渴」，维基作「渇」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:34&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:35&#34;&gt;原文作「贫」，维基作「频」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:35&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:36&#34;&gt;原文作「真」，维基作「眞」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:36&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:38&#34;&gt;原文作「猪」，维基作「猪」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:38&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:39&#34;&gt;原文作「虚」，维基作「虚」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:39&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:40&#34;&gt;原文作「同君一夜话」，维基作「听君一席话」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:40&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:41&#34;&gt;原文作「那个」，维基作「哪箇」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:41&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:42&#34;&gt;原文作「延」，维基作「縁」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:42&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:37&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:37&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:43&#34;&gt;原文作「壤」，维基作「败」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:43&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:44&#34;&gt;原文作「国」，维基作「官」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:44&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:45&#34;&gt;原文作「清」，维基作「淸」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:45&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:46&#34;&gt;原文作「人太𦂳则无智」，维基作「人至察则无徒」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:46&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:47&#34;&gt;原文作「房」，维基作「堂」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:47&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:48&#34;&gt;原文作「总」，维基作「终」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:48&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:49&#34;&gt;原文作「里」，维基作「里」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:49&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:50&#34;&gt;原文作「高」，维基作「髙」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:50&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:51&#34;&gt;原文作「卷」，维基作「巻」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:51&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:52&#34;&gt;原文作「多」，维基作「得」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:52&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:53&#34;&gt;原文作「人」，维基作「自」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:53&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:54&#34;&gt;原文作「高」，维基作「髙」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:54&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:55&#34;&gt;原文作「涉」，维基作「渉」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:55&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:56&#34;&gt;原文作「自走」，维基作「亲为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:56&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:57&#34;&gt;原文作「乡」，维基作「鄕」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:57&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:58&#34;&gt;原文作「智」，维基作「知」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:58&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:59&#34;&gt;原文作「矣」，维基作「也」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:59&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:60&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:60&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:63&#34;&gt;原文作「为」，维基作「谓」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:63&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:64&#34;&gt;原文作「干」，维基作「天」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:64&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:65&#34;&gt;原文作「直」，维基作「只」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:65&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:66&#34;&gt;原文作「白发不随老人去，看来又是白头翁。」，维基作「黑发不知勤学早，白首方悔读书迟。」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:66&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:67&#34;&gt;原文作「到」，维基作「过」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:67&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:68&#34;&gt;原文作「把」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:68&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:69&#34;&gt;原文作「真」，维基作「眞」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:69&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:70&#34;&gt;原文作「养」，维基作「有」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:70&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:71&#34;&gt;原文作「傅」，维基作「擦」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:71&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:72&#34;&gt;原文作「脓」，维基作「浓」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:72&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:73&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:73&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:74&#34;&gt;原文作「钩」，维基作「钩」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:74&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:75&#34;&gt;原文作「无」，维基作「有」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:75&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:76&#34;&gt;原文作「着」，维基作「着」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:76&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:77&#34;&gt;原文作「相」，维基作「来」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:77&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:78&#34;&gt;原文作「认」，维基作「论」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:78&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:79&#34;&gt;原文作「夜」，维基作「野」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:79&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:80&#34;&gt;原文作「迟」，维基作「时」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:80&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:81&#34;&gt;原文作「念念」，维基作「念念」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:81&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:82&#34;&gt;原文作「蠏」，维基作「蟹」。 「蠏」，同「蟹」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:82&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:83&#34;&gt;原文作「闲」，维基作「闲」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:83&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:84&#34;&gt;原文作「莫」，维基作「休」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:84&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:85&#34;&gt;原文作「饶」，维基作「缎」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:85&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:86&#34;&gt;原文作「真」，维基作「眞」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:86&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:87&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:87&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:88&#34;&gt;原文作「坦」，维基作「阳」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:88&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:89&#34;&gt;维基无「十年窗下无人问，一举成名天下知」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:89&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:90&#34;&gt;原文作「代」，维基作「待」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:90&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:91&#34;&gt;原文作「饥」，维基作「饥」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:91&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:92&#34;&gt;原文作「鸡」，维基作「鸡」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:92&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:93&#34;&gt;原文作「饥」，维基作「饥」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:93&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:94&#34;&gt;原文作「清」，维基作「淸」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:94&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:95&#34;&gt;原文作「作」，维基作「祝」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:95&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:96&#34;&gt;原文作「却」，维基作「却」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:96&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:97&#34;&gt;原文作「算之本」，维基作「算人之本」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:97&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:98&#34;&gt;原文作「算之机」，维基作「算人之机」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:98&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:99&#34;&gt;原文作「既」，维基作「旣」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:99&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:100&#34;&gt;原文作「路逢险处须当避」，维基作「路逢侠客须呈剑」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:100&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:101&#34;&gt;原文作「年」，维基作「壮」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:101&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:102&#34;&gt;原文作「来」，维基作「大」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:102&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:103&#34;&gt;原文作「吃」，维基作「饮」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:103&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:104&#34;&gt;原文作「凄」，维基作「凄」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:104&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:105&#34;&gt;原文作「个个」，维基作「箇箇」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:105&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:106&#34;&gt;原文作「缘」，维基作「縁」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:106&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:107&#34;&gt;原文作「鸡」，维基作「鸡」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:107&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:108&#34;&gt;原文作「头顶」，维基作「胸前」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:108&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:109&#34;&gt;原文作「撑」，维基作「撑」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:109&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:110&#34;&gt;原文作「思」，维基作「想」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:110&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:111&#34;&gt;原文作「人」，维基作「上」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:111&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:112&#34;&gt;原文作「由」，维基作「有」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:112&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:113&#34;&gt;原文作「人」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:113&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:114&#34;&gt;原文作「好」，维基作「虚」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:114&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:115&#34;&gt;原文作「高」，维基作「髙」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:115&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:116&#34;&gt;原文作「强」，维基作「强」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:116&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:117&#34;&gt;原文作「着」，维基作「着」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:117&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:118&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:118&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:119&#34;&gt;原文作「惟」，维基作「唯」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:119&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:120&#34;&gt;原文作「高」，维基作「髙」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:120&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:122&#34;&gt;原文作「占」，维基作「占」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:122&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:123&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:123&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:124&#34;&gt;原文作「为」，维基作「作」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:124&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:125&#34;&gt;原文作「间」，维基作「闲」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:125&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:126&#34;&gt;原文作「既」，维基作「旣」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:126&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:127&#34;&gt;原文作「反」，维基作「翻」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:127&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:128&#34;&gt;原文作「偷」，维基作「偸」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:128&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:129&#34;&gt;原文作「透」，维基作「通」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:129&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:130&#34;&gt;原文作「步」，维基作「歩」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:130&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:131&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:131&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:132&#34;&gt;原文作「肚」，维基作「赌」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:132&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:133&#34;&gt;原文作「无」，维基作「屋」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:133&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:134&#34;&gt;原文作「睍睍」，维基作「观花」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:134&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:135&#34;&gt;原文作「涉」，维基作「渉」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:135&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:136&#34;&gt;维基作「奈五行，不是这般题目」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:136&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:137&#34;&gt;原文作「真」，维基作「眞」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:137&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:138&#34;&gt;原文作「急」，维基作「激」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:138&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:139&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:139&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:140&#34;&gt;原文作「地」，维基作「土」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:140&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:141&#34;&gt;原文作「却」，维基作「却」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:141&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:142&#34;&gt;原文作「蒙蒙」，维基作「懵懵」。 「蒙」，同「懵」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:142&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:143&#34;&gt;原文作「须」，维基作「虽」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:143&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:144&#34;&gt;原文作「煖」，维基作「满」。 「煖」，同「暖」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:144&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:145&#34;&gt;原文作「感」，维基作「咸」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:145&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:146&#34;&gt;原文作「被」，维基作「遇」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:146&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:147&#34;&gt;原文作「笋」，维基作「笋」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:147&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:148&#34;&gt;原文作「照」，维基作「北」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:148&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:149&#34;&gt;维基作「良药苦口利于病，忠言逆耳利于行。」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:149&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:150&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:150&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:151&#34;&gt;原文作「却」，维基作「却」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:151&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:152&#34;&gt;原文作「脚」，维基作「脚」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:152&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:153&#34;&gt;原文作「无」，维基作「有」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:153&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:154&#34;&gt;原文作「高」，维基作「髙」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:154&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:155&#34;&gt;原文作「清」，维基作「淸」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:155&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:156&#34;&gt;原文作「人」，维基作「凡人」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:156&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:157&#34;&gt;原文作「水」，维基作「海水」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:157&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:158&#34;&gt;原文作「清」，维基作「淸」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:158&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:159&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:159&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:160&#34;&gt;原文作「防」，维基作「妨」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:160&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:161&#34;&gt;原文作「良将」，维基作「侯王」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:161&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:162&#34;&gt;原文作「后」，维基作「里」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:162&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:163&#34;&gt;原文作「省己」，维基作「前身」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:163&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:164&#34;&gt;原文作「茫」，维基作「忙」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:164&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:165&#34;&gt;原文作「寄物不寄失」，维基作「礼轻仁义重」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:165&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:166&#34;&gt;原文作「较金为贵」，维基作「黄金难买」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:166&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:167&#34;&gt;原文作「厦」，维基作「厦」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:167&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:168&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:168&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:169&#34;&gt;原文作「拖」，维基作「拔」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:169&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:170&#34;&gt;原文作「衙门八字开」，维基作「八字衙门向南开」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:170&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:171&#34;&gt;原文作「亏」，维基作「欺」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:171&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:172&#34;&gt;原文作「清」，维基作「淸」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:172&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:173&#34;&gt;原文作「惟」，维基作「唯」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:173&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:174&#34;&gt;原文作「为」，维基作「为」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:174&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:175&#34;&gt;原文作「脚」，维基作「脚」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:175&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:176&#34;&gt;原文作「深」，维基作「勤」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:176&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:177&#34;&gt;原文作「摇」，维基作「摇」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:177&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:178&#34;&gt;原文作「何」，维基作「无」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:178&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:179&#34;&gt;维基作「奉劝君子，各宜守己」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:179&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:180&#34;&gt;原文作「程式」，维基作「呈示」。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:180&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        <item>
+        <title>简介</title>
+        <link>https://noroki.github.io/zh-cn/%E7%AE%80%E4%BB%8B/</link>
+        <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/%E7%AE%80%E4%BB%8B/</guid>
+        <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;A programmer, who is fond of linguistics.&lt;br /&gt;
+— &lt;cite&gt;Noroki&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;动机&#34;&gt;动机&lt;/h2&gt;
+
+&lt;p&gt;东西越写越多，文件夹的分类都越来越复杂，因而想做个博客来管理我的作品。有画作，也有随笔，因为涉及内容众多，无法尽数放在社交网站，因而辑录成册，置于「泛物斋」。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>二〇二一第一部补完动画——魔兵传奇（MÄR-メルヘヴン-）</title>
+        <link>https://noroki.github.io/zh-cn/p/hkgcr/</link>
+        <pubDate>Fri, 01 Jan 2021 02:48:39 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/p/hkgcr/</guid>
+        <description>&lt;img src="https://noroki.github.io/zh-cn/p/hkgcr/%E3%83%AD%E3%82%B3.jpg" alt="Featured image of post 二〇二一第一部补完动画——魔兵传奇（MÄR-メルヘヴン-）" /&gt;
+
+&lt;h1 id=&#34;mär&#34;&gt;MÄR&lt;/h1&gt;
+
+&lt;p&gt;　　一早起身，百无聊赖，想找着就把魔兵传奇最后一集看完吧，于是，便成了二一年第一部补完嘅动画。&lt;/p&gt;
+
+&lt;p&gt;　　犹记得第一次睇魔兵传奇，约莫是小学五年级。嗰阵星空台首播，守喺电视机前准时收看，睇完之后，都觉得几好睇。第二日翻学校同同学讲起，讨论甚是热烈。自此，每晚都准时菢喺电视机前，一集都唔错过，即使有日去咗同学屋企玩，亦要够钟就开定电视睇，真系忠实番薯&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;嚟噶。每当剧中出现重要嘅专有名词，就会用张纸记低，（都几似小学生会做嘅嘢。。。）因此到依家剧中嘅名都依然朗朗上口。课余时间，仲同同学自研手势游戏，咩十三图腾柱、小雪人啊，都系极之开心。后来，星空台好似播到打完魅影之后，就冇继续播了。 （星空台就呢样唔好，虎头蛇尾，记得海贼王又系播完恐怖三桅帆船就冇了，搞到要走去补漫画。。。。。。）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;1.jpeg&#34; alt=&#34;图一　魔兵传奇（MÄR-メルヘヴン-）视觉图&#34; /&gt;
+&lt;center&gt;图一　魔兵传奇（MÄR-メルヘヴン-）视觉图&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;　　后来，大概十年后，无意中喺乙站&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;揾到全套剧集，当年嘅回忆瞬间飙晒出嚟，梗系第一时间储起佢啦。之后系陆陆续续啖补。大二暑假得闲，就从魅影篇开始，一集集看。揾到嘅系国语版，不过冇字幕，就好似做听力啖，总有一两个字听唔清。不过国语配音好有当年嘅感觉，虽然当年有字幕，但呢部系为数不多
+嘅我愿意睇配音版而唔系原版嘅动画，可能系习惯咗。&lt;/p&gt;
+
+&lt;p&gt;　　大三开学，各种事务变得繁忙，于是便断了补完。日日忙到死，终于挨到赶完截&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;考完试，转眼就来到年底，
+&lt;ruby&gt;
+    &lt;rb&gt;度假&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;quarantine&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+个阵亦同样有让我把它补完嘅时间，于是便重新打开了这部当年的回忆。&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;Dorothy.png&#34; alt=&#34;桃乐丝（ドロシー）&#34;&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;图二　桃乐丝（ドロシー）　当年最喜欢的角色&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;　　很快，一集一集地过，转眼就看到最后一集。 （虽然途中刀咗好多人，不过按热血动画嘅套路，最后肯定会翻生嘅。（不过。。。。此处点名藤本树&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;，我的精神病人。 ）不过安西信行&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;最尾好似癫咗啖搏命刀人，感觉有啲无谓。 ）同样地，时间也来到二〇年最后一日。站在年末，回望这一年，确实是不尽如人意的一年。选择了活在当下的我，也不作多想，转头便投入梦乡。翌日，依依不舍地打开最后一集，好似十年来的回忆都即将画下句号般。最后一集，其实并非第一次看了，早在六年级还是初中，我就到土豆搜了最后一集来看，但当时跳过了很大一部分，最后也看了个茫茫然，唔知点解最尾主角穿越翻现实世界。后来，同人讨论个阵，仲被人话系咪年代太耐记懵咗。其实年代系一个原因，另外直接跳最尾一集都有关系。 （话说我当年睇嘢，无论系动画定漫画，钟意睇第一集同埋最尾一集，就当睇完。。。可能当年冇咁多零用钱，至作出嘅最经济决定。）因此，现在看最后一集，当年看最尾一集嘅残存回忆也陆续浮现在脑海中，一切的剧情都拼接成一条完整的珠链，这种时空交错的忆记，真系好难得。最尾，主角回到了自己的世界，异世界也恢复了和平，大团圆结局。不过，桃乐丝，我当年最喜欢的角色，经历过重重挫折，只能遗憾地对主角道出心声，却孤单地留在异世界，都系觉得好可惜。当年会觉得这样的结局并不好，但现在再回头细看，最刻骨铭心的永不会是大团圆的完美结局，而是悲剧的力量才更令人惋惜铭记。终究，他们不是同一个世界的人。结局，纵有遗憾，亦是注定的合乎情理。&lt;/p&gt;
+
+&lt;h1 id=&#34;后记&#34;&gt;后记&lt;/h1&gt;
+
+&lt;p&gt;　　好耐冇写过日记，上一篇都好似系初中嗰阵了。虽然当年桥桥
+&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;十分热闹，但如今相比之下也冷清不少，毕竟桥桥已是上个年代的产物。至于为什么要以日记的形式发表，我想，如果当年的我，大概会以这样的形式将它记录下来。&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;番薯【fans】：音译。亦作粉丝。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;乙站【bilibili】：取字母表之乙位之意。 B站，视频网站。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;截【due】：意译。取截止日期之意。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;藤本树：漫画家。以剧情的荒诞以及难以预测，配合极具表现力的画面著称。代表作品《炎拳》、《电锯人》。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;安西信行：魔兵传奇（MÄR）漫画作者。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;桥桥【QQ】：音译。通信工具。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:6&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>https://noroki.github.io/zh-cn/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://noroki.github.io/zh-cn/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

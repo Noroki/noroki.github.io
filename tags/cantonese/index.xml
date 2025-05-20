@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Cantonese on 泛物齋</title>
+        <link>https://noroki.github.io/tags/cantonese/</link>
+        <description>Recent content in Cantonese on 泛物齋</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 18 Jun 2022 17:30:36 +0800</lastBuildDate><atom:link href="https://noroki.github.io/tags/cantonese/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>日本漢字的粵語讀音規範（草案）</title>
+        <link>https://noroki.github.io/p/han-jpn/</link>
+        <pubDate>Sat, 18 Jun 2022 17:30:36 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/p/han-jpn/</guid>
+        <description>&lt;img src="https://noroki.github.io/p/han-jpn/cover.jpg" alt="Featured image of post 日本漢字的粵語讀音規範（草案）" /&gt;
+
+&lt;h2 id=&#34;〇-前言&#34;&gt;〇、前言&lt;/h2&gt;
+
+&lt;p&gt;本文基於《日本漢字的漢語讀音規範（草案）》（下稱《規範》），擬定日本漢字相應的&lt;strong&gt;粵語&lt;/strong&gt;讀音。&lt;/p&gt;
+
+&lt;p&gt;本文大致將日本漢字分爲四類，日本自造漢字、中日同形字、中國古字或俗字和日本略字。&lt;/p&gt;
+
+&lt;p&gt;注意，本文的對日本漢字的歸類與《規範》有少許不同，對部分字的歸屬作出了調整，下文詳述。&lt;/p&gt;
+
+&lt;p&gt;正文部分也有列出現行香港《電腦用漢字粵語拼音表》與本文擬音對比，供讀者參考。&lt;/p&gt;
+
+&lt;h2 id=&#34;一-術語定義與擬音原則&#34;&gt;一、術語定義與擬音原則&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;日本漢字&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;日文中使用的漢字。包括日本自造漢字、中日同形字、中國古字或俗字和日本略字。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;下文詳述具體四種類別的分類標準及擬音原則。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;日本自造漢字&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;日本仿照漢字造字原理和結構體式自造的日本漢字。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;中文無此字。&lt;/p&gt;
+
+&lt;p&gt;取&lt;strong&gt;“聲旁”&lt;/strong&gt;的讀音。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;中日同形字&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;日本漢字中跟中國已有的某一漢字字形相同，但字義沒有關聯或相去甚遠的漢字；或字形雖爲漢語字詞書所收錄，但無義項，無法進行字義比較的漢字。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;中日皆有此字，字形相同，但字義不同或無法比較。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;取同形的中國漢字讀音。 &amp;ndash; 《規範》&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;《規範》中的擬音原則是取同形的中國漢字讀音，但實際上考慮到中日兩種語言中字義未必相同，此處應&lt;strong&gt;按照日語詞源擬音&lt;/strong&gt;；當詞源不明確時，可參考日本自造漢字的擬音原則處理，取“聲旁”的讀音。&lt;/p&gt;
+
+&lt;p&gt;例如，「喰」日語中意爲「進食」，與「餐」的異體字「喰」字義無關&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，取同形的中國漢字讀音會造成混亂，令人誤以爲是字義上有所關聯。因此，宜按照日語詞源擬音而非直接套用同形的中國漢字讀音。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;中國古字或俗字&lt;/p&gt;
+
+&lt;p&gt;中日皆有此字，屬古今字或異體字關係，字義相同。依據現有字詞書判定爲中國古字或俗字。&lt;/p&gt;
+
+&lt;p&gt;按&lt;strong&gt;中國漢字讀音&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;對於中日&lt;strong&gt;字義不同&lt;/strong&gt;的字，如「俣」（分叉處）和「俁」（俁，容貌大也），不宜作中國古字或俗字處理，應按中日同形字處理。&lt;/p&gt;
+
+&lt;p&gt;簡而言之，對於中國古字或俗字這一分類，本文與《規範》處理方法不同。字義相同的，仍歸類於中國古字或俗字；字義不同的，重新歸類爲中日同形字（與中國古字或俗字字形相同的日本漢字）。&lt;/p&gt;
+
+&lt;p&gt;4.1 古字&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;跟今字記錄同一語詞，但爲古時通行的字形。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;4.2 俗字&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;跟正字記錄同一語詞，但沒有取得規範地位的字形。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;日本略字&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;日文所用漢字中的簡體字，包括日本自造的簡體字和取自中國古字或俗字的簡體字。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;日本使用的不同於中文漢字字形的簡體字。中日字形不同，但有對應關係。翻譯成中文時需要轉寫爲相應的繁體字。&lt;/p&gt;
+
+&lt;p&gt;按相應的&lt;strong&gt;中文繁體字讀音&lt;/strong&gt;。&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;二-正文&#34;&gt;二、正文&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;日本漢字&lt;/th&gt;
+&lt;th&gt;分類&lt;/th&gt;
+&lt;th&gt;日語讀音&lt;/th&gt;
+&lt;th&gt;大陸《日本漢字的漢語讀音規範（草案）》&lt;/th&gt;
+&lt;th&gt;香港《電腦用漢字粵語拼音表》&lt;/th&gt;
+&lt;th&gt;暫擬粵音&lt;/th&gt;
+&lt;th&gt;說明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;匂&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;にお-う&lt;/td&gt;
+&lt;td&gt;yún / ㄩㄣˊ&lt;/td&gt;
+&lt;td&gt;hung1&lt;/td&gt;
+&lt;td&gt;wan5&lt;/td&gt;
+&lt;td&gt;取「韵（勻）」的音&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;丼&lt;/td&gt;
+&lt;td&gt;中國古字或俗字&lt;/td&gt;
+&lt;td&gt;どん&lt;/td&gt;
+&lt;td&gt;dǎn / ㄉㄢˇ&lt;/td&gt;
+&lt;td&gt;zeng2&lt;/td&gt;
+&lt;td&gt;dam2&lt;/td&gt;
+&lt;td&gt;投物井中的聲音，日語用「丼」的此義作爲擬聲詞「どんぶり」的漢字（擬音語の「どんぶり」に当てられ)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;辻&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;つじ&lt;/td&gt;
+&lt;td&gt;shí / ㄕˊ&lt;/td&gt;
+&lt;td&gt;sap6&lt;/td&gt;
+&lt;td&gt;sap6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;込&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;こ-む&lt;/td&gt;
+&lt;td&gt;rù / ㄖㄨˋ&lt;/td&gt;
+&lt;td&gt;jyu1&lt;/td&gt;
+&lt;td&gt;jap6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;凧&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;たこ&lt;/td&gt;
+&lt;td&gt;jīn / ㄐㄧㄣ&lt;/td&gt;
+&lt;td&gt;kei4&lt;/td&gt;
+&lt;td&gt;gan1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;杣&lt;/td&gt;
+&lt;td&gt;中日同形字&lt;/td&gt;
+&lt;td&gt;そま&lt;/td&gt;
+&lt;td&gt;shān / ㄕㄢ&lt;/td&gt;
+&lt;td&gt;min4&lt;/td&gt;
+&lt;td&gt;saan1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;枠&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;わく&lt;/td&gt;
+&lt;td&gt;zá / ㄗㄚˊ&lt;/td&gt;
+&lt;td&gt;zyut6&lt;/td&gt;
+&lt;td&gt;&lt;span title=&#34;「切韻音系自動推導器」推導今音&#34;&gt;wok6&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;わく來源爲「籰」「籆」「篗」的音讀&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;。篗，王縛切。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;畑&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;はた、はたけ&lt;/td&gt;
+&lt;td&gt;tián / ㄊㄧㄢˊ&lt;/td&gt;
+&lt;td&gt;tin4&lt;/td&gt;
+&lt;td&gt;tin4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;栃&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;とち&lt;/td&gt;
+&lt;td&gt;lì / ㄌㄧˋ&lt;/td&gt;
+&lt;td&gt;lai6&lt;/td&gt;
+&lt;td&gt;lai6&lt;/td&gt;
+&lt;td&gt;考慮到日語有從「励」、「蛎」類推的慣用音レイ，用於「来栃」「帰栃」等詞，可從之。（「来栃」「帰栃」などの文章上で用いられる栃木県の往来表現の読み方について、励や蛎などの漢字から類推して「レイ」の読みが与えられることがある。）&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;栂&lt;/td&gt;
+&lt;td&gt;中國古字或俗字&lt;/td&gt;
+&lt;td&gt;つが、とが&lt;/td&gt;
+&lt;td&gt;méi / ㄇㄟˊ&lt;/td&gt;
+&lt;td&gt;mui4&lt;/td&gt;
+&lt;td&gt;mui4&lt;/td&gt;
+&lt;td&gt;「栂」有慣用音 「バイ」，與梅的漢音 「バイ」同，可從之。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;峠&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;とうげ&lt;/td&gt;
+&lt;td&gt;kǎ / ㄎㄚˇ&lt;/td&gt;
+&lt;td&gt;kaa1&lt;/td&gt;
+&lt;td&gt;lung6&lt;/td&gt;
+&lt;td&gt;取𠧗（⿱上下）的音。《康熙字典》有收𠧗（⿱上下），同「弄」，宜取𠧗（⿱上下）而非「卡」。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;俣&lt;/td&gt;
+&lt;td&gt;中日同形字&lt;/td&gt;
+&lt;td&gt;また&lt;/td&gt;
+&lt;td&gt;yǔ / ㄩˇ&lt;/td&gt;
+&lt;td&gt;jyu5&lt;/td&gt;
+&lt;td&gt;ng4&lt;/td&gt;
+&lt;td&gt;中日字義不同，按中日同形字處理，取「吴（吳）」的音。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;籾&lt;/td&gt;
+&lt;td&gt;中日同形字&lt;/td&gt;
+&lt;td&gt;もみ&lt;/td&gt;
+&lt;td&gt;rèn / ㄖㄣˋ&lt;/td&gt;
+&lt;td&gt;nei4&lt;/td&gt;
+&lt;td&gt;jan6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;畠&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;はた、はたけ&lt;/td&gt;
+&lt;td&gt;tián / ㄊㄧㄢˊ&lt;/td&gt;
+&lt;td&gt;tin4, zi1&lt;/td&gt;
+&lt;td&gt;tin4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;雫&lt;/td&gt;
+&lt;td&gt;中日同形字&lt;/td&gt;
+&lt;td&gt;しずく&lt;/td&gt;
+&lt;td&gt;xià / ㄒㄧㄚˋ&lt;/td&gt;
+&lt;td&gt;no5&lt;/td&gt;
+&lt;td&gt;haa6&lt;/td&gt;
+&lt;td&gt;漢語無義可對比&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;，按中日同形字處理，取「下」的音。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;笹&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;ささ&lt;/td&gt;
+&lt;td&gt;shì / ㄕˋ&lt;/td&gt;
+&lt;td&gt;sai3&lt;/td&gt;
+&lt;td&gt;sai3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;塀&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;かき、へい&lt;/td&gt;
+&lt;td&gt;píng / ㄆㄧㄥˊ&lt;/td&gt;
+&lt;td&gt;ping4&lt;/td&gt;
+&lt;td&gt;ping4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;椙&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;すぎ&lt;/td&gt;
+&lt;td&gt;chāng / ㄔㄤ&lt;/td&gt;
+&lt;td&gt;coeng1&lt;/td&gt;
+&lt;td&gt;coeng1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;硲&lt;/td&gt;
+&lt;td&gt;中國古字或俗字&lt;/td&gt;
+&lt;td&gt;はざま&lt;/td&gt;
+&lt;td&gt;yù / ㄩˋ&lt;/td&gt;
+&lt;td&gt;juk6&lt;/td&gt;
+&lt;td&gt;juk6&lt;/td&gt;
+&lt;td&gt;中日字義相近，可按中國古字或俗字處理，取「硲（峪）」的音。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;蛯&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;えび&lt;/td&gt;
+&lt;td&gt;lǎo / ㄌㄠˇ&lt;/td&gt;
+&lt;td&gt;lou5&lt;/td&gt;
+&lt;td&gt;lou5&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;喰&lt;/td&gt;
+&lt;td&gt;中日同形字&lt;/td&gt;
+&lt;td&gt;く-う&lt;/td&gt;
+&lt;td&gt;cān / ㄘㄢ&lt;/td&gt;
+&lt;td&gt;caan1&lt;/td&gt;
+&lt;td&gt;sik6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;搾&lt;/td&gt;
+&lt;td&gt;中國古字或俗字&lt;/td&gt;
+&lt;td&gt;しぼ-る、さく&lt;/td&gt;
+&lt;td&gt;zhà / ㄓㄚˋ&lt;/td&gt;
+&lt;td&gt;zaa3&lt;/td&gt;
+&lt;td&gt;zaa3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;榊&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;さかき&lt;/td&gt;
+&lt;td&gt;shén / ㄕㄣˊ&lt;/td&gt;
+&lt;td&gt;san4&lt;/td&gt;
+&lt;td&gt;san4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;働&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;はたら-く、どう&lt;/td&gt;
+&lt;td&gt;dòng / ㄉㄨㄥˋ&lt;/td&gt;
+&lt;td&gt;dung6&lt;/td&gt;
+&lt;td&gt;dung6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;糀&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;こうじ&lt;/td&gt;
+&lt;td&gt;huā / ㄏㄨㄚ&lt;/td&gt;
+&lt;td&gt;faa1&lt;/td&gt;
+&lt;td&gt;faa1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;鞆&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;とも&lt;/td&gt;
+&lt;td&gt;bǐng / ㄅㄧㄥˇ&lt;/td&gt;
+&lt;td&gt;bing2&lt;/td&gt;
+&lt;td&gt;bing2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;槇&lt;/td&gt;
+&lt;td&gt;中日同形字&lt;/td&gt;
+&lt;td&gt;まき&lt;/td&gt;
+&lt;td&gt;zhēn / ㄓㄣ&lt;/td&gt;
+&lt;td&gt;din1&lt;/td&gt;
+&lt;td&gt;zan1&lt;/td&gt;
+&lt;td&gt;中日字義不同，按中日同形字處理，取「眞」的音。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;樫&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;かし&lt;/td&gt;
+&lt;td&gt;jīan / ㄐㄧㄢ&lt;/td&gt;
+&lt;td&gt;gin1&lt;/td&gt;
+&lt;td&gt;gin1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;鴫&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;しぎ&lt;/td&gt;
+&lt;td&gt;tián / ㄊㄧㄢˊ&lt;/td&gt;
+&lt;td&gt;tin4&lt;/td&gt;
+&lt;td&gt;tin4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;噺&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;はなし&lt;/td&gt;
+&lt;td&gt;xīn / ㄒㄧㄣ&lt;/td&gt;
+&lt;td&gt;san1&lt;/td&gt;
+&lt;td&gt;san1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;簗&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;やな&lt;/td&gt;
+&lt;td&gt;liáng / ㄌㄧㄤˊ&lt;/td&gt;
+&lt;td&gt;loeng4&lt;/td&gt;
+&lt;td&gt;loeng4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;麿&lt;/td&gt;
+&lt;td&gt;日本自造漢字&lt;/td&gt;
+&lt;td&gt;まろ&lt;/td&gt;
+&lt;td&gt;mó / ㄇㄛˊ&lt;/td&gt;
+&lt;td&gt;leoi5&lt;/td&gt;
+&lt;td&gt;maa4 leoi5&lt;/td&gt;
+&lt;td&gt;合字，應與「粁」「瓩」「竏」處理方法相同。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;三-後記&#34;&gt;三、後記&lt;/h2&gt;
+
+&lt;p&gt;有關日本漢字的中文讀音問題，可謂是爭論不休，「糸」是「糸（mik6）」還是「絲」、「喰」讀「sik6」還是「caan1」，等等的問題也十分常見。有關普通話讀音的討論很多，但少有針對粵語進行討論的文章。筆者嘗試對「日本漢字的粵語讀音」這一問題進行整理，擬定了部分日本漢字的粵語讀音。&lt;/p&gt;
+
+&lt;h2 id=&#34;四-參考文獻&#34;&gt;四、參考文獻&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;《日本漢字的漢語讀音規範（草案）》&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;切韻音系自動推導器 &lt;a href=&#34;https://nk2028.shn.hk/qieyun-autoderiver/&#34;&gt;https://nk2028.shn.hk/qieyun-autoderiver/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;如何评价《日本汉字的汉语读音规范（草案）》？ - Kushim Jiang的回答 - 知乎 &lt;a href=&#34;https://www.zhihu.com/question/319141316/answer/653094729&#34;&gt;https://www.zhihu.com/question/319141316/answer/653094729&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:5&#34;&gt;《东京喰种》的「喰」怎么读？ - 亜恵恵阿由的回答 - 知乎 &lt;a href=&#34;https://www.zhihu.com/question/24368233/answer/1975127398&#34;&gt;https://www.zhihu.com/question/24368233/answer/1975127398&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34;&gt;日本汉字「匂」，在中文应该念什么？ - 亜恵恵阿由的回答 - 知乎 &lt;a href=&#34;https://www.zhihu.com/question/53710679/answer/136275972&#34;&gt;https://www.zhihu.com/question/53710679/answer/136275972&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;「笹」真的是「屉」的异体字吗？ - 亜恵恵阿由的回答 - 知乎 &lt;a href=&#34;https://www.zhihu.com/question/319157186/answer/2025024838&#34;&gt;https://www.zhihu.com/question/319157186/answer/2025024838&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;【汉字】汉字的多重身份——以「雫」为例 - 屠龙少年周旭的文章 - 知乎 &lt;a href=&#34;https://zhuanlan.zhihu.com/p/60115525&#34;&gt;https://zhuanlan.zhihu.com/p/60115525&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on 泛物斋</title>
+        <link>https://noroki.github.io/zh-cn/tags/</link>
+        <description>Recent content in Tags on 泛物斋</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 18 Jun 2022 17:30:36 +0800</lastBuildDate><atom:link href="https://noroki.github.io/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Cantonese</title>
+        <link>https://noroki.github.io/zh-cn/tags/cantonese/</link>
+        <pubDate>Sat, 18 Jun 2022 17:30:36 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/tags/cantonese/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>にほんご</title>
+        <link>https://noroki.github.io/zh-cn/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/</link>
+        <pubDate>Thu, 09 Jun 2022 16:36:39 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>增广贤文</title>
+        <link>https://noroki.github.io/zh-cn/tags/%E5%A2%9E%E5%B9%BF%E8%B4%A4%E6%96%87/</link>
+        <pubDate>Sun, 05 Sep 2021 10:02:39 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/tags/%E5%A2%9E%E5%B9%BF%E8%B4%A4%E6%96%87/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>汉语</title>
+        <link>https://noroki.github.io/zh-cn/tags/%E6%B1%89%E8%AF%AD/</link>
+        <pubDate>Sun, 05 Sep 2021 10:02:39 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/tags/%E6%B1%89%E8%AF%AD/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>ACG</title>
+        <link>https://noroki.github.io/zh-cn/tags/acg/</link>
+        <pubDate>Fri, 01 Jan 2021 02:48:39 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/tags/acg/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Anime</title>
+        <link>https://noroki.github.io/zh-cn/tags/anime/</link>
+        <pubDate>Fri, 01 Jan 2021 02:48:39 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/zh-cn/tags/anime/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

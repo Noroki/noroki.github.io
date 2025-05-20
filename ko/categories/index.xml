@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on 범물재</title>
+        <link>https://noroki.github.io/ko/categories/</link>
+        <description>Recent content in Categories on 범물재</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 13 Feb 2022 23:59:59 +0800</lastBuildDate><atom:link href="https://noroki.github.io/ko/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>JPN</title>
+        <link>https://noroki.github.io/ko/categories/jpn/</link>
+        <pubDate>Sun, 13 Feb 2022 23:59:59 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/ko/categories/jpn/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>lyric</title>
+        <link>https://noroki.github.io/ko/categories/lyric/</link>
+        <pubDate>Sun, 13 Feb 2022 23:59:59 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/ko/categories/lyric/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>KOR</title>
+        <link>https://noroki.github.io/ko/categories/kor/</link>
+        <pubDate>Wed, 09 Feb 2022 18:38:01 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/ko/categories/kor/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
